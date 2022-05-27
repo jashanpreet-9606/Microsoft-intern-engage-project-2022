@@ -1,0 +1,838 @@
+,Model,Make,year,Price,kms_driven,fuel_type
+0,Nano Genx,Tata,2007,292667,45000,Petrol
+1,Nano Genx,Tata,2006,236447,40,Diesel
+2,Nano Genx,Tata,2018,296661,22000,Petrol
+3,Nano Genx,Tata,2014,334768,28000,Petrol
+4,Nano Genx,Tata,2014,272223,36000,Diesel
+5,Nano Genx,Tata,2015,314815,59000,Diesel
+6,Redi-Go,Datsun,2012,279650,41000,Diesel
+7,Redi-Go,Datsun,2013,351832,25000,Petrol
+8,Redi-Go,Datsun,2016,333419,24530,Diesel
+9,Redi-Go,Datsun,2015,362000,60000,Petrol
+10,Redi-Go,Datsun,2010,390000,60000,Petrol
+11,Redi-Go,Datsun,2015,437065,30000,Petrol
+12,Kwid,Renault,2014,353290,32000,Petrol
+13,Kwid,Renault,2015,283290,48660,Diesel
+14,Kwid,Renault,2007,383290,45000,Petrol
+15,Kwid,Renault,2006,413290,40,Diesel
+16,Kwid,Renault,2017,433290,4000,Petrol
+17,Kwid,Renault,2014,454490,16934,Diesel
+18,Kwid,Renault,2016,463290,43000,Diesel
+19,Kwid,Renault,2014,484490,35550,Petrol
+20,Kwid,Renault,2016,440990,43000,Diesel
+21,Kwid,Renault,2016,470990,39522,Diesel
+22,Kwid,Renault,2015,462190,39000,Petrol
+23,Kwid,Renault,2012,492190,55000,Petrol
+24,Eeco,Maruti Suzuki,2012,352136,55000,Petrol
+25,Eeco,Maruti Suzuki,2012,380573,55000,Petrol
+26,Eeco,Maruti Suzuki,2017,392967,72000,Petrol
+27,Eeco,Maruti Suzuki,2016,466057,15975,Diesel
+28,Eeco,Maruti Suzuki,2008,425255,70000,Petrol
+29,Alto K10,Maruti Suzuki,2017,377588,23452,Diesel
+30,Alto K10,Maruti Suzuki,2014,394036,35522,Diesel
+31,Alto K10,Maruti Suzuki,2015,360843,48508,Diesel
+32,Alto K10,Maruti Suzuki,2017,407238,15487,Petrol
+33,Alto K10,Maruti Suzuki,2013,439777,39000,Petrol
+34,Alto K10,Maruti Suzuki,2013,438559,39000,Petrol
+35,Go,Datsun,2012,374990,82000,Diesel
+36,Go,Datsun,2018,468229,20000,Diesel
+37,Go,Datsun,2012,502492,68000,Diesel
+38,Go,Datsun,2017,499990,32000,Diesel
+39,Go,Datsun,2012,469990,38000,Diesel
+40,Go,Datsun,2013,528464,27000,Diesel
+41,Go,Datsun,2011,553015,33000,Petrol
+42,Go,Datsun,2015,594464,60000,Petrol
+43,Go,Datsun,2013,618015,46000,Diesel
+44,Celerio Tour,Maruti Suzuki,2013,422444,46000,Diesel
+45,Celerio Tour,Maruti Suzuki,2015,480670,36000,Diesel
+46,Santro,Hyundai,2015,429990,55000,Petrol
+47,Santro,Hyundai,2017,503990,16000,Petrol
+48,Santro,Hyundai,2010,547990,36000,Petrol
+49,Santro,Hyundai,2015,530990,47000,Diesel
+50,Santro,Hyundai,2017,512990,23452,Diesel
+51,Santro,Hyundai,2014,578990,35522,Diesel
+52,Santro,Hyundai,2015,570990,48508,Diesel
+53,Santro,Hyundai,2017,556490,15487,Petrol
+54,Tiago,Tata,2013,460000,39000,Petrol
+55,Tiago,Tata,2013,520000,39000,Petrol
+56,Tiago,Tata,2015,570000,35000,Diesel
+57,Tiago,Tata,2017,599000,30874,Petrol
+58,Tiago,Tata,2017,610000,15000,Diesel
+59,Tiago,Tata,2013,620000,29685,Petrol
+60,Tiago,Tata,2012,649000,41000,Diesel
+61,Tiago,Tata,2013,660000,25000,Petrol
+62,Celerio X,Maruti Suzuki,2017,481074,130000,Diesel
+63,Celerio X,Maruti Suzuki,2016,475198,24530,Diesel
+64,Celerio X,Maruti Suzuki,2017,518198,130000,Diesel
+65,Celerio X,Maruti Suzuki,2012,524074,19000,Diesel
+66,Celerio X,Maruti Suzuki,2014,499734,60000,Petrol
+67,Celerio X,Maruti Suzuki,2010,540350,60000,Petrol
+68,Celerio X,Maruti Suzuki,2015,542735,30000,Petrol
+69,Ignis,Maruti Suzuki,2010,713898,41000,Petrol
+70,Ignis,Maruti Suzuki,2012,666898,35000,Diesel
+71,Ignis,Maruti Suzuki,2015,607841,54000,Petrol
+72,Ignis,Maruti Suzuki,2013,560841,13000,Petrol
+73,Ignis,Maruti Suzuki,2017,483320,16000,Petrol
+74,Ignis,Maruti Suzuki,2011,630320,38200,Diesel
+75,Ignis,Maruti Suzuki,2015,583320,22000,Petrol
+76,Triber,Renault,2015,495000,22000,Petrol
+77,Triber,Renault,2014,559000,50000,Diesel
+78,Triber,Renault,2013,609000,13500,Petrol
+79,Triber,Renault,2015,663000,30000,Diesel
+80,Rio,Premier,2014,506000,50000,Diesel
+81,Rio,Premier,2013,568623,20000,Diesel
+82,Rio,Premier,2017,670000,39000,Petrol
+83,Rio,Premier,2012,603000,30000,Petrol
+84,Rio,Premier,2019,739000,3600,Diesel
+85,Etios Liva,Toyota,2009,520300,32000,Petrol
+86,Etios Liva,Toyota,2010,581000,38000,Diesel
+87,Etios Liva,Toyota,2008,647800,45000,Petrol
+88,Etios Liva,Toyota,2009,630000,35000,Petrol
+89,Etios Liva,Toyota,2005,745000,50000,Petrol
+90,Etios Liva,Toyota,2014,704000,32000,Petrol
+91,Etios Liva,Toyota,2011,597700,45863,Diesel
+92,Etios Liva,Toyota,2011,720700,60500,Petrol
+93,Etios Liva,Toyota,2011,641700,12500,Petrol
+94,Etios Liva,Toyota,2013,756700,60000,Diesel
+95,Etios Liva,Toyota,2012,558400,35000,Diesel
+96,Etios Liva,Toyota,2014,686000,35000,Petrol
+97,Etios Liva,Toyota,2012,662700,45000,Diesel
+98,Etios Liva,Toyota,2009,777700,35000,Petrol
+99,Micra Active,Nissan,2013,525021,38000,Diesel
+100,Micra Active,Nissan,2014,599950,18000,Petrol
+101,Micra Active,Nissan,2015,563133,35000,Diesel
+102,Bolt,Tata,2013,787980,13349,Petrol
+103,Bolt,Tata,2016,661111,29000,Petrol
+104,Bolt,Tata,2014,693798,44000,Diesel
+105,Bolt,Tata,2016,719661,29000,Petrol
+106,Bolt,Tata,2013,674960,42000,Diesel
+107,Bolt,Tata,2012,529035,14000,Petrol
+108,Bolt,Tata,2014,590268,49000,Diesel
+109,Bolt,Tata,2014,614515,42000,Petrol
+110,Xcent Prime,Hyundai,2012,556130,36200,Diesel
+111,Xcent Prime,Hyundai,2014,536859,50000,Diesel
+112,Xcent Prime,Hyundai,2015,556130,55000,Petrol
+113,Xcent Prime,Hyundai,2014,536859,45000,Petrol
+114,Xcent Prime,Hyundai,2007,639616,51000,Petrol
+115,Xcent Prime,Hyundai,2014,620297,19000,Petrol
+116,Dzire Tour,Maruti Suzuki,2009,653523,46000,Petrol
+117,Dzire Tour,Maruti Suzuki,2013,553423,33000,Diesel
+118,Dzire Tour,Maruti Suzuki,2013,598940,13349,Petrol
+119,Elite I20,Hyundai,2015,559693,104000,Diesel
+120,Elite I20,Hyundai,2014,697803,55000,Petrol
+121,Elite I20,Hyundai,2011,634950,33333,Diesel
+122,Elite I20,Hyundai,2012,770803,33600,Petrol
+123,Elite I20,Hyundai,2017,721693,5600,Petrol
+124,Elite I20,Hyundai,2011,876103,41000,Petrol
+125,Elite I20,Hyundai,2007,808993,70000,Petrol
+126,Elite I20,Hyundai,2018,934003,7500,Petrol
+127,Elite I20,Hyundai,2013,920993,45000,Diesel
+128,Elite I20,Hyundai,2015,751693,38000,Petrol
+129,Elite I20,Hyundai,2015,831693,30000,Petrol
+130,Aura,Hyundai,2010,579900,35000,Petrol
+131,Aura,Hyundai,2016,655900,24330,Diesel
+132,Aura,Hyundai,2009,705800,65480,Petrol
+133,Aura,Hyundai,2013,729900,41000,Petrol
+134,Aura,Hyundai,2006,804800,20000,Petrol
+135,Aura,Hyundai,2018,785900,28028,Petrol
+136,Aura,Hyundai,2000,728900,200000,Diesel
+137,Aura,Hyundai,2010,854900,70000,Petrol
+138,Aura,Hyundai,2012,773800,59000,Petrol
+139,Aura,Hyundai,2012,823700,99000,Diesel
+140,Aura,Hyundai,2014,922700,46000,Diesel
+141,Aura,Hyundai,2015,903800,2800,Petrol
+142,Polo,Volkswagen,2014,582000,32000,Petrol
+143,Polo,Volkswagen,2015,676500,22000,Diesel
+144,Polo,Volkswagen,2014,776500,50000,Diesel
+145,Polo,Volkswagen,2015,734500,22000,Petrol
+146,Polo,Volkswagen,2012,851500,45000,Petrol
+147,Polo,Volkswagen,2018,931500,21000,Petrol
+148,Polo,Volkswagen,2016,976000,11000,Petrol
+149,Polo,Volkswagen,2013,988500,41000,Diesel
+150,Dzire,Maruti Suzuki,2017,582613,39000,Petrol
+151,Dzire,Maruti Suzuki,2014,673112,50000,Diesel
+152,Dzire,Maruti Suzuki,2011,666622,66000,Diesel
+153,Dzire,Maruti Suzuki,2018,732113,3000,Petrol
+154,Dzire,Maruti Suzuki,2010,757622,45000,Petrol
+155,Dzire,Maruti Suzuki,2016,720112,7000,Petrol
+156,Dzire,Maruti Suzuki,2010,863122,38500,Diesel
+157,Dzire,Maruti Suzuki,2012,816622,37200,Diesel
+158,Dzire,Maruti Suzuki,2010,821613,43200,Diesel
+159,Dzire,Maruti Suzuki,2013,779113,24800,Petrol
+160,Dzire,Maruti Suzuki,2014,868613,60000,Diesel
+161,Dzire,Maruti Suzuki,2010,906122,45872,Petrol
+162,Dzire,Maruti Suzuki,2011,804622,40000,Diesel
+163,Dzire,Maruti Suzuki,2011,952622,45000,Diesel
+164,Freestyle,Ford,2012,676400,38000,Diesel
+165,Freestyle,Ford,2014,790900,50000,Diesel
+166,Freestyle,Ford,2011,836400,11400,Diesel
+167,Freestyle,Ford,2015,591400,42000,Petrol
+168,Freestyle,Ford,2014,721400,39000,Petrol
+169,Freestyle,Ford,2011,756400,47000,Diesel
+170,Freestyle,Ford,2013,681400,27000,Petrol
+171,Freestyle,Ford,2015,745900,97200,Diesel
+172,Ameo,Volkswagen,2014,711500,52000,Diesel
+173,Ameo,Volkswagen,2012,810500,30000,Petrol
+174,Ameo,Volkswagen,2011,999900,55000,Diesel
+175,Ameo,Volkswagen,2013,925500,46000,Diesel
+176,Ameo,Volkswagen,2015,594000,30000,Diesel
+177,Ameo,Volkswagen,2012,665000,44000,Petrol
+178,Ameo,Volkswagen,2014,799900,45000,Diesel
+179,Ameo,Volkswagen,2009,999900,31000,Petrol
+180,Aspire,Ford,2016,598500,175430,Diesel
+181,Aspire,Ford,2015,697400,38000,Diesel
+182,Aspire,Ford,2013,699400,37000,Diesel
+183,Aspire,Ford,2008,737400,65000,Petrol
+184,Aspire,Ford,2011,777400,38200,Diesel
+185,Aspire,Ford,2013,817400,13000,Petrol
+186,Aspire,Ford,2005,862400,7500,Petrol
+187,Aspire,Ford,2016,782400,3350,Petrol
+188,Aspire,Ford,2000,737400,60000,Petrol
+189,Aspire,Ford,2015,758314,54000,Petrol
+190,Aspire,Ford,2017,762400,32000,Petrol
+191,Platinum Etios,Toyota,2007,627100,75000,Diesel
+192,Platinum Etios,Toyota,2012,718600,62000,Diesel
+193,Platinum Etios,Toyota,2006,734700,73000,Diesel
+194,Platinum Etios,Toyota,2011,828600,41000,Petrol
+195,Platinum Etios,Toyota,2011,888400,35000,Petrol
+196,Platinum Etios,Toyota,2013,778400,2200,Petrol
+197,Platinum Etios,Toyota,2013,689600,39000,Petrol
+198,Platinum Etios,Toyota,2009,799600,45000,Petrol
+199,Platinum Etios,Toyota,2006,913400,45000,Petrol
+200,Platinum Etios,Toyota,2012,803400,65000,Diesel
+201,Etios Cross,Toyota,2010,650000,54870,Petrol
+202,Etios Cross,Toyota,2010,797500,34580,Petrol
+203,Etios Cross,Toyota,2009,766000,97000,Diesel
+204,Etios Cross,Toyota,2015,668500,25000,Diesel
+205,Etios Cross,Toyota,2013,816000,20000,Diesel
+206,Verito Vibe,Mahindra,2014,657628,20000,Petrol
+207,Verito Vibe,Mahindra,2015,685729,18000,Petrol
+208,Verito Vibe,Mahindra,2012,750428,35000,Diesel
+209,Urban Cross,Fiat,2019,677618,60,Diesel
+210,Urban Cross,Fiat,2012,739074,35000,Diesel
+211,Urban Cross,Fiat,2013,977516,80200,Diesel
+212,Urban Cross,Fiat,2015,810211,3200,Diesel
+213,Glanza,Toyota,2012,721900,46000,Diesel
+214,Glanza,Toyota,2019,758200,0,Diesel
+215,Glanza,Toyota,2015,829900,5000,Petrol
+216,Glanza,Toyota,2018,890200,588,Diesel
+217,Glanza,Toyota,2011,697900,36000,Diesel
+218,Avventura,Fiat,2015,796132,38000,Diesel
+219,Avventura,Fiat,2008,711801,45000,Petrol
+220,Avventura,Fiat,2006,876341,71200,Petrol
+221,Jazz,Honda,2016,745000,52000,Diesel
+222,Jazz,Honda,2016,909000,29000,Diesel
+223,Jazz,Honda,2015,789000,47000,Diesel
+224,Jazz,Honda,2009,865000,47000,Petrol
+225,Jazz,Honda,2015,816500,20000,Diesel
+226,Jazz,Honda,2015,896500,30000,Diesel
+227,Jazz,Honda,2017,940500,5000,Petrol
+228,Jazz,Honda,2014,928000,35000,Diesel
+229,Compass Trailhawk,Jeep,2014,2680000,31000,Petrol
+230,Compass Trailhawk,Jeep,2016,2760000,7000,Petrol
+231,Mu-X,Isuzu,2016,2734834,175430,Diesel
+232,Mu-X,Isuzu,2016,2931534,175400,Diesel
+233,Alturas G4,Mahindra,2016,2770150,41000,Petrol
+234,Alturas G4,Mahindra,2014,3070150,33000,Petrol
+235,Tiguan,Volkswagen,2013,2814500,46000,Diesel
+236,Tiguan,Volkswagen,2012,3153500,45000,Petrol
+237,Cr-V,Honda,2015,2827001,39000,Diesel
+238,Cr-V,Honda,2015,3067001,22000,Petrol
+239,Cr-V,Honda,2009,3277001,47000,Petrol
+240,Superb Sportline,Skoda,2015,2899599,3200,Diesel
+241,Superb Sportline,Skoda,2015,3149599,30000,Diesel
+242,A3,Audi,2015,3021200,37000,Diesel
+243,A3,Audi,2013,3221200,13000,Petrol
+244,A3,Audi,2017,2920750,14000,Petrol
+245,A3,Audi,2013,3120750,55000,Diesel
+246,Mercedes-Benz B-Class,Mercedes,2013,2988311,46000,Diesel
+247,Mercedes-Benz B-Class,Mercedes,2012,3089851,30000,Petrol
+248,Mercedes-Benz B-Class,Mercedes,2013,3198662,50000,Diesel
+249,Mercedes-Benz B-Class,Mercedes,2003,3303282,45000,Petrol
+250,Mercedes-Benz Cla-Class,Mercedes,2006,3599000,45000,Petrol
+251,Mercedes-Benz Cla-Class,Mercedes,2015,3172000,9300,Petrol
+252,Mercedes-Benz Cla-Class,Mercedes,2013,3699000,55000,Diesel
+253,Kodiaq,Skoda,2012,3299599,36200,Diesel
+254,Kodiaq,Skoda,2014,3678599,50000,Diesel
+255,Kodiaq,Skoda,2015,3299599,55000,Petrol
+256,Avanti,Dc,2014,3407407,45000,Petrol
+257,Q3,Audi,2007,3677200,51000,Petrol
+258,Q3,Audi,2014,3992200,19000,Petrol
+259,Q3,Audi,2009,4361000,46000,Petrol
+260,Q3,Audi,2013,3496750,33000,Diesel
+261,Cooper 5 Door,Mini,2010,3600000,36000,Petrol
+262,Convertible,Mini,2015,3830000,22000,Petrol
+263,Xc40,Volvo,2013,3990000,13500,Petrol
+264,Xc40,Volvo,2015,4390000,60000,Diesel
+265,Xc40,Volvo,2013,3990000,27000,Diesel
+266,Clubman,Mini,2014,4120000,59000,Diesel
+267,A4,Audi,2015,4149000,19000,Diesel
+268,A4,Audi,2013,4507000,30000,Petrol
+269,John Cooper Works,Mini,2018,4350000,15000,Petrol
+270,Xe,Jaguar,2003,4498000,56758,Petrol
+271,Xe,Jaguar,2018,4498000,10000,Petrol
+272,Xe,Jaguar,2018,4633000,20000,Diesel
+273,Xe,Jaguar,2014,4633000,49000,Diesel
+274,Xf,Jaguar,2014,5436329,41000,Petrol
+275,Xf,Jaguar,2011,6073446,45000,Petrol
+276,Xf,Jaguar,2010,6138811,43000,Petrol
+277,Xf,Jaguar,2016,5506622,175430,Diesel
+278,Xf,Jaguar,2000,4977080,56450,Petrol
+279,A3 Cabriolet,Audi,2015,5038000,38000,Diesel
+280,A6,Audi,2010,5942200,56000,Petrol
+281,X3,Bmw,2013,5930000,37000,Diesel
+282,X3,Bmw,2008,5880000,65000,Petrol
+283,X3,Bmw,2015,5600000,32700,Petrol
+284,Discovery Sport,Land Rover,2011,5706000,38200,Diesel
+285,Discovery Sport,Land Rover,2016,6089000,30000,Diesel
+286,S90,Volvo,2006,5890000,56000,Petrol
+287,X5,Bmw,2010,7330000,52000,Diesel
+288,X5,Bmw,2016,8290000,9000,Diesel
+289,X5,Bmw,2013,8290000,13000,Petrol
+290,Mustang,Ford,2013,7462000,13000,Petrol
+291,Grand Cherokee,Jeep,2008,7882867,11000,Petrol
+292,Grand Cherokee,Jeep,2013,8931819,13000,Petrol
+293,Grand Cherokee,Jeep,2009,11400000,46000,Diesel
+294,Grand Cherokee,Jeep,2019,7515000,73,Petrol
+295,Mercedes-Benz E-Class Cabriolet,Mercedes,2004,7711338,160000,Diesel
+296,M2 Competition,Bmw,2017,8180000,84000,Diesel
+297,718,Porsche,2009,8995000,58559,Petrol
+298,718,Porsche,2015,8595000,30000,Diesel
+299,Mercedes-Benz Gls,Mercedes,2013,8820000,55000,Diesel
+300,Mercedes-Benz Gls,Mercedes,2014,19199181,57000,Diesel
+301,Mercedes-Benz Gls,Mercedes,2015,8776900,50000,Diesel
+302,Mercedes-Benz Gls,Mercedes,2014,8690000,37000,Petrol
+303,Mercedes-Benz Gls,Mercedes,2012,8690000,40000,Petrol
+304,Land Cruiser Prado,Toyota,2011,9630000,55000,Petrol
+305,Rx 450H,Lexus,2007,9900000,170000,Diesel
+306,Rs5,Audi,2014,11141200,55000,Diesel
+307,7-Series,Bmw,2015,12290000,39000,Petrol
+308,7-Series,Bmw,2014,13200000,44000,Petrol
+309,7-Series,Bmw,2009,13510000,65000,Petrol
+310,7-Series,Bmw,2014,13510000,39000,Petrol
+311,7-Series,Bmw,2012,16500000,44000,Diesel
+312,7-Series,Bmw,2015,24250000,49000,Diesel
+313,Q8,Audi,2018,13359500,9000,Diesel
+314,Mercedes-Benz S-Class,Mercedes,2015,13558438,45000,Diesel
+315,Mercedes-Benz S-Class,Mercedes,2014,13976653,47000,Diesel
+316,Mercedes-Benz S-Class,Mercedes,2012,25500000,40000,Diesel
+317,Levante,Maserati,2016,14512054,29000,Diesel
+318,Levante,Maserati,2016,14863774,15000,Petrol
+319,Levante,Maserati,2015,15383399,45000,Diesel
+320,Mercedes-Benz G-Class,Mercedes,2014,21875136,35000,Petrol
+321,Mercedes-Benz G-Class,Mercedes,2013,15000000,80000,Diesel
+322,A8 L,Audi,2013,15600000,68000,Diesel
+323,Granturismo,Maserati,2013,17229579,50000,Diesel
+324,Quattroporte,Maserati,2010,17900000,60000,Diesel
+325,Lc 500H,Lexus,2016,19600000,9000,Petrol
+326,Mercedes-Benz Maybach,Mercedes,2012,27308312,72000,Diesel
+327,Mercedes-Benz Maybach,Mercedes,2013,19890000,60000,Petrol
+328,Panamera,Porsche,2012,21263000,38000,Diesel
+329,Panamera,Porsche,2013,22613000,45000,Diesel
+330,Panamera,Porsche,2012,21747000,40000,Diesel
+331,Lx 450D,Lexus,2013,23290000,20000,Petrol
+332,Mercedes-Benz S-Class Cabriolet,Mercedes,2013,23491293,35000,Diesel
+333,R8,Audi,2016,27245000,20000,Diesel
+334,Urus,Lamborghini,2015,30000000,25000,Diesel
+335,Continental Gt,Bentley,2013,33791059,20000,Diesel
+336,Portofino,Ferrari,2014,35000000,20000,Petrol
+337,Bentayga,Bentley,2015,45941557,18000,Petrol
+338,Bentayga,Bentley,2012,37542069,35000,Diesel
+339,Db 11,Aston Martin,2017,40456503,6821,Petrol
+340,458 Speciale,Ferrari,2014,42531500,23000,Petrol
+341,Rolls-Royce Ghost Series Ii,BMW,2014,46709733,14000,Petrol
+342,Rolls-Royce Ghost Series Ii,BMW,2012,53247201,38000,Petrol
+343,Rolls-Royce Wraith,BMW,2015,50025840,35000,Diesel
+344,Mulsanne,Bentley,2017,52571294,22000,Petrol
+345,Rolls-Royce Cullinan,BMW,2011,69500000,41000,Petrol
+346,Rolls-Royce Phantom Coupe,BMW,2010,77312661,45000,Petrol
+347,Chiron,Bugatti,2014,192142937,44000,Diesel
+348,Chiron,Bugatti,2013,212155397,45000,Diesel
+349,Qute (Re60),Bajaj,2011,263000,52000,Diesel
+350,Qute (Re60),Bajaj,2012,283000,34000,Petrol
+351,Alto,Maruti Suzuki,2018,294800,1800,Diesel
+352,Alto,Maruti Suzuki,2015,352900,15000,Diesel
+353,Alto,Maruti Suzuki,2010,357200,400000,Petrol
+354,Alto,Maruti Suzuki,2009,376100,44000,Petrol
+355,Alto,Maruti Suzuki,2019,405570,60,Diesel
+356,Alto,Maruti Suzuki,2012,409190,35000,Diesel
+357,Alto,Maruti Suzuki,2016,389600,72000,Diesel
+358,S-Presso,Maruti Suzuki,2014,370500,40000,Diesel
+359,S-Presso,Maruti Suzuki,2013,409000,80200,Diesel
+360,S-Presso,Maruti Suzuki,2015,415000,3200,Diesel
+361,S-Presso,Maruti Suzuki,2013,432500,48000,Diesel
+362,S-Presso,Maruti Suzuki,2011,438500,90000,Diesel
+363,S-Presso,Maruti Suzuki,2015,475500,12000,Petrol
+364,S-Presso,Maruti Suzuki,2012,456000,46000,Diesel
+365,S-Presso,Maruti Suzuki,2003,481500,69900,Petrol
+366,S-Presso,Maruti Suzuki,2019,499000,0,Diesel
+367,Celerio,Maruti Suzuki,2011,426289,45000,Petrol
+368,Celerio,Maruti Suzuki,2015,465138,5000,Petrol
+369,Celerio,Maruti Suzuki,2016,508138,166000,Diesel
+370,Celerio,Maruti Suzuki,2008,490924,42000,Petrol
+371,Celerio,Maruti Suzuki,2018,531279,588,Diesel
+372,Celerio,Maruti Suzuki,2006,530000,122,Diesel
+373,Celerio,Maruti Suzuki,2017,533924,62000,Diesel
+374,Celerio,Maruti Suzuki,2010,434659,70000,Petrol
+375,Celerio,Maruti Suzuki,2014,515257,36000,Petrol
+376,Celerio,Maruti Suzuki,2012,543279,0,Diesel
+377,Grand I10 Prime,Hyundai,2018,551530,24000,Petrol
+378,Grand I10 Prime,Hyundai,1995,568930,55000,Petrol
+379,Grand I10 Prime,Hyundai,2011,460369,36000,Diesel
+380,Grand I10 Prime,Hyundai,2015,477511,38000,Diesel
+381,Grand I10 Prime,Hyundai,2014,545946,55000,Diesel
+382,Grand I10 Prime,Hyundai,2015,528804,20000,Diesel
+383,Kuv100 Nxt,Mahindra,2012,488194,40000,Petrol
+384,Kuv100 Nxt,Mahindra,2004,590798,50000,Petrol
+385,Kuv100 Nxt,Mahindra,2016,619243,104000,Diesel
+386,Kuv100 Nxt,Mahindra,2011,667273,65000,Diesel
+387,Kuv100 Nxt,Mahindra,2002,579645,41000,Petrol
+388,Kuv100 Nxt,Mahindra,2013,631144,90000,Diesel
+389,Kuv100 Nxt,Mahindra,2000,693550,80000,Petrol
+390,Kuv100 Nxt,Mahindra,2006,787304,46000,Petrol
+391,Kuv100 Nxt,Mahindra,2001,701045,70000,Petrol
+392,Kuv100 Nxt,Mahindra,2017,794800,36469,Diesel
+393,Kuv100 Nxt,Mahindra,2018,573250,7800,Petrol
+394,Kuv100 Nxt,Mahindra,2011,631146,65000,Diesel
+395,Kuv100 Nxt,Mahindra,2017,687175,60000,Petrol
+396,Kuv100 Nxt,Mahindra,2011,660832,32000,Petrol
+397,Kuv100 Nxt,Mahindra,2009,748128,24695,Petrol
+398,Kuv100 Nxt,Mahindra,2017,780884,15141,Petrol
+399,Kuv100 Nxt,Mahindra,2001,550155,40000,Petrol
+400,Kuv100 Nxt,Mahindra,2012,559741,65000,Diesel
+401,Kuv100 Nxt,Mahindra,2014,542913,22000,Petrol
+402,Swift,Maruti Suzuki,2016,519000,59910,Diesel
+403,Swift,Maruti Suzuki,2012,619000,100000,Diesel
+404,Swift,Maruti Suzuki,2016,666000,25000,Petrol
+405,Swift,Maruti Suzuki,2013,678000,35000,Petrol
+406,Swift,Maruti Suzuki,2015,725000,65000,Diesel
+407,Swift,Maruti Suzuki,2014,758000,35000,Petrol
+408,Swift,Maruti Suzuki,2012,599000,33000,Petrol
+409,Swift,Maruti Suzuki,2017,698000,68000,Diesel
+410,Swift,Maruti Suzuki,2010,745000,23000,Petrol
+411,Swift,Maruti Suzuki,2018,757000,4500,Diesel
+412,Swift,Maruti Suzuki,2015,804000,129000,Diesel
+413,Swift,Maruti Suzuki,2019,838000,300,Diesel
+414,Swift,Maruti Suzuki,2015,802000,5000,Petrol
+415,Swift,Maruti Suzuki,2001,884000,65000,Petrol
+416,Altroz,Tata,2010,529000,131000,Diesel
+417,Altroz,Tata,2010,615000,111111,Petrol
+418,Altroz,Tata,2013,769000,14000,Petrol
+419,Altroz,Tata,2016,699000,22000,Diesel
+420,Altroz,Tata,2013,775000,38000,Diesel
+421,Altroz,Tata,2016,844000,70000,Diesel
+422,Altroz,Tata,2010,904000,36000,Petrol
+423,Altroz,Tata,2015,929000,34000,Diesel
+424,Extreme,Icml,2015,642478,43000,Petrol
+425,Extreme,Icml,2014,689761,40000,Diesel
+426,Extreme,Icml,2016,788177,160000,Diesel
+427,Extreme,Icml,2017,2650777,12000,Petrol
+428,Extreme,Icml,2011,628072,49000,Diesel
+429,Extreme,Icml,2011,900967,68000,Petrol
+430,Extreme,Icml,2013,1465148,37000,Diesel
+431,Extreme,Icml,2012,552890,59466,Diesel
+432,Extreme,Icml,2011,927689,16000,Petrol
+433,Extreme,Icml,2015,835275,97200,Diesel
+434,Tigor,Tata,2012,575000,99000,Diesel
+435,Tigor,Tata,2018,610000,25500,Petrol
+436,Tigor,Tata,2009,650000,66000,Petrol
+437,Tigor,Tata,2010,699000,44005,Petrol
+438,Tigor,Tata,2016,660000,35000,Diesel
+439,Tigor,Tata,2016,749000,35000,Diesel
+440,Zest,Tata,2015,582287,28000,Petrol
+441,Zest,Tata,2015,702946,30000,Petrol
+442,Zest,Tata,2017,653926,4000,Petrol
+443,Zest,Tata,2016,672641,28000,Petrol
+444,Zest,Tata,2011,732475,75000,Petrol
+445,Zest,Tata,2015,767317,97200,Diesel
+446,Zest,Tata,2017,793898,3000,Petrol
+447,Zest,Tata,2015,855362,20000,Petrol
+448,Zest,Tata,2004,836320,50000,Petrol
+449,Zest,Tata,2018,989000,2110,Petrol
+450,Zest,Tata,2015,788797,43222,Petrol
+451,Amaze,Honda,2008,763000,100200,Petrol
+452,Amaze,Honda,2003,705000,100000,Petrol
+453,Amaze,Honda,2011,593000,65,Petrol
+454,Amaze,Honda,2015,865000,100000,Diesel
+455,Amaze,Honda,2015,823000,97200,Diesel
+456,Amaze,Honda,2015,925000,97200,Diesel
+457,Amaze,Honda,2016,785000,140000,Diesel
+458,Amaze,Honda,2015,893000,55000,Petrol
+459,Amaze,Honda,2009,845000,48000,Petrol
+460,Amaze,Honda,2016,781000,22000,Petrol
+461,Amaze,Honda,2018,733000,103553,Diesel
+462,Amaze,Honda,2017,673000,80000,Diesel
+463,Amaze,Honda,2014,906000,99000,Diesel
+464,Amaze,Honda,2010,794000,58000,Petrol
+465,Amaze,Honda,2013,966000,70000,LPG
+466,Amaze,Honda,2015,864000,120000,Diesel
+467,Amaze,Honda,2013,979300,49800,Diesel
+468,Amaze,Honda,2019,877300,100,Diesel
+469,Amaze,Honda,2001,906300,81876,Petrol
+470,Amaze,Honda,2015,794300,75000,Petrol
+471,Gypsy,Maruti Suzuki,2004,637343,50000,Petrol
+472,Gypsy,Maruti Suzuki,2014,622730,44000,Diesel
+473,Venue,Hyundai,2016,655000,55000,Diesel
+474,Venue,Hyundai,2017,826000,36000,Diesel
+475,Venue,Hyundai,2016,780000,56000,Diesel
+476,Venue,Hyundai,2007,959000,62000,Petrol
+477,Venue,Hyundai,2015,974000,120000,Diesel
+478,Venue,Hyundai,2014,1065000,6020,Petrol
+479,Venue,Hyundai,2013,940000,55700,Diesel
+480,Venue,Hyundai,2005,1115500,42000,Petrol
+481,Venue,Hyundai,2003,725000,50000,Petrol
+482,Venue,Hyundai,2010,850000,35000,Petrol
+483,Venue,Hyundai,2014,983000,18500,Petrol
+484,Venue,Hyundai,2007,998000,7000,Petrol
+485,Venue,Hyundai,2017,1089000,11000,Petrol
+486,Nexon,Tata,2015,695000,180000,Diesel
+487,Nexon,Tata,2003,770000,53000,Petrol
+488,Nexon,Tata,2008,870000,23000,Petrol
+489,Nexon,Tata,2016,950000,35500,Diesel
+490,Nexon,Tata,2010,970000,22134,Petrol
+491,Nexon,Tata,2019,1040000,1000,Petrol
+492,Nexon,Tata,2010,1060000,9000,Petrol
+493,Nexon,Tata,2016,830000,8500,Petrol
+494,Nexon,Tata,2015,1010000,35000,Petrol
+495,Nexon,Tata,2014,1030000,35000,Petrol
+496,Nexon,Tata,2014,1100000,22000,Petrol
+497,Nexon,Tata,2002,1120000,25000,Diesel
+498,Nexon,Tata,2010,845000,40000,Petrol
+499,Nexon,Tata,2017,920000,20000,Petrol
+500,Nexon,Tata,2016,1020000,87000,Petrol
+501,Nexon,Tata,2015,1100000,55000,Petrol
+502,Nexon,Tata,2017,1120000,23000,Petrol
+503,Nexon,Tata,2014,1190000,6000,Petrol
+504,Nexon,Tata,2013,1210000,65000,Petrol
+505,Nexon,Tata,2016,980000,25000,Diesel
+506,Nexon,Tata,2015,1160000,39000,Petrol
+507,Nexon,Tata,2009,1180000,15574,Diesel
+508,Nexon,Tata,2016,1250000,8000,Petrol
+509,Nexon,Tata,2013,1270000,75000,Diesel
+510,Linea,Fiat,2012,715860,51000,Diesel
+511,Linea,Fiat,2006,862175,50000,Petrol
+512,Linea,Fiat,2001,932025,75000,Petrol
+513,Linea,Fiat,2015,991434,55800,Petrol
+514,Linea,Fiat,2015,997763,53000,Petrol
+515,Bolero Power Plus,Mahindra,2018,886398,25000,Petrol
+516,Bolero Power Plus,Mahindra,2009,851302,56400,Petrol
+517,Bolero Power Plus,Mahindra,2010,785656,72160,Diesel
+518,Bolero Power Plus,Mahindra,2012,749192,10000,Diesel
+519,Bolero Power Plus,Mahindra,2006,859497,48000,Petrol
+520,Bolero Power Plus,Mahindra,2007,819117,36000,Petrol
+521,Vitara Brezza,Maruti Suzuki,2012,762742,11500,Diesel
+522,Vitara Brezza,Maruti Suzuki,2003,814742,133000,Petrol
+523,Vitara Brezza,Maruti Suzuki,2009,892243,27000,Petrol
+524,Vitara Brezza,Maruti Suzuki,2009,987743,35000,Petrol
+525,Vitara Brezza,Maruti Suzuki,2010,1003552,55000,Petrol
+526,Vitara Brezza,Maruti Suzuki,2016,1037742,40000,Petrol
+527,Vitara Brezza,Maruti Suzuki,2019,864742,2000,Petrol
+528,Vitara Brezza,Maruti Suzuki,2009,942243,45000,Petrol
+529,Vitara Brezza,Maruti Suzuki,2009,1059742,20000,Petrol
+530,I20 Active,Hyundai,2000,774035,88000,Petrol
+531,I20 Active,Hyundai,2009,858536,20000,Petrol
+532,I20 Active,Hyundai,2012,882298,65422,Diesel
+533,I20 Active,Hyundai,2017,993393,10000,Petrol
+534,Ecosport,Ford,2013,791000,35000,Petrol
+535,Ecosport,Ford,2013,871000,117000,Diesel
+536,Ecosport,Ford,2005,950000,150000,Diesel
+537,Ecosport,Ford,2011,1130000,72000,Diesel
+538,Ecosport,Ford,2010,841000,10750,Petrol
+539,Ecosport,Ford,2009,921000,55000,Petrol
+540,Ecosport,Ford,2013,999900,6800,Petrol
+541,Ecosport,Ford,2014,1090000,41000,Diesel
+542,Ecosport,Ford,2015,999900,73000,Diesel
+543,Ecosport,Ford,2011,999900,65000,Diesel
+544,Ecosport,Ford,2014,1090000,45000,Diesel
+545,Duster,Renault,2018,799990,40000,Diesel
+546,Duster,Renault,2014,919990,37000,Petrol
+547,Duster,Renault,2006,999990,55000,Petrol
+548,Duster,Renault,2013,929990,140000,Diesel
+549,Duster,Renault,2016,999990,5,Petrol
+550,Duster,Renault,2019,1119990,9800,Petrol
+551,Duster,Renault,2011,1209990,27000,Petrol
+552,Duster,Renault,2009,1249990,27000,Petrol
+553,Duster,Renault,2012,1249990,20000,Diesel
+554,Verna,Hyundai,2013,999900,57923,Diesel
+555,Verna,Hyundai,2014,1172544,30201,Diesel
+556,Verna,Hyundai,2017,1301881,6200,Petrol
+557,Verna,Hyundai,2009,1172999,37518,Petrol
+558,Verna,Hyundai,2014,1328545,24652,Petrol
+559,Verna,Hyundai,2004,1287999,383,Diesel
+560,Verna,Hyundai,2016,933182,95000,Diesel
+561,Verna,Hyundai,2011,817867,35000,Diesel
+562,Verna,Hyundai,2015,1178894,3528,Diesel
+563,Verna,Hyundai,2013,1162875,52500,Diesel
+564,Verna,Hyundai,2010,1407871,47900,Diesel
+565,Verna,Hyundai,2012,942867,14000,Petrol
+566,Verna,Hyundai,2018,999900,37000,Petrol
+567,Xuv300,Mahindra,2017,830127,90000,Diesel
+568,Xuv300,Mahindra,2013,915128,52800,Diesel
+569,Xuv300,Mahindra,2016,1060129,104000,Diesel
+570,Xuv300,Mahindra,2011,1184129,30000,Petrol
+571,Xuv300,Mahindra,2014,869131,195000,Diesel
+572,Xuv300,Mahindra,2016,950131,104000,Diesel
+573,Xuv300,Mahindra,2016,1095129,104000,Diesel
+574,Xuv300,Mahindra,2004,1214130,70000,Diesel
+575,Xuv300,Mahindra,2015,1269131,43000,Diesel
+576,Xuv300,Mahindra,2013,999000,23000,Petrol
+577,Lodgy,Renault,2015,863299,51000,Diesel
+578,Lodgy,Renault,2009,964199,62000,Petrol
+579,Lodgy,Renault,2010,1211599,48008,Petrol
+580,Lodgy,Renault,2013,1053899,39000,Diesel
+581,Lodgy,Renault,2010,1130099,40000,Petrol
+582,Lodgy,Renault,2006,964199,48247,Petrol
+583,Vento,Volkswagen,2012,876500,39000,Diesel
+584,Vento,Volkswagen,2014,999900,23000,Petrol
+585,Vento,Volkswagen,2017,999900,9400,Petrol
+586,Vento,Volkswagen,2010,1197500,50000,Petrol
+587,Vento,Volkswagen,2009,1449500,75000,Petrol
+588,Vento,Volkswagen,2017,999900,70000,Diesel
+589,Vento,Volkswagen,2009,1210500,64000,Diesel
+590,Vento,Volkswagen,2010,1336500,55000,Petrol
+591,Vento,Volkswagen,2014,1317500,200000,Diesel
+592,Vento,Volkswagen,2018,1449500,7500,Diesel
+593,E2O Plus,Mahindra,2018,881425,2137,Petrol
+594,Tigor Ev,Tata,2013,960868,30000,Diesel
+595,Tigor Ev,Tata,2014,975868,44000,Petrol
+596,Tigor Ev,Tata,2002,944175,56000,Petrol
+597,Brv,Honda,2006,952900,65000,Diesel
+598,Brv,Honda,2012,1052900,160000,LPG
+599,Brv,Honda,2011,1167900,56000,Diesel
+600,Brv,Honda,2012,1271900,75000,Diesel
+601,Brv,Honda,2018,1187900,42000,Diesel
+602,Brv,Honda,2012,1273900,75000,Diesel
+603,Brv,Honda,2007,1382900,56000,Diesel
+604,Thar,Mahindra,2002,959860,10544,Petrol
+605,Thar,Mahindra,2011,999148,64000,Petrol
+606,Thar,Mahindra,2008,974860,70000,Diesel
+607,Gurkha,Force,2014,999000,25000,Petrol
+608,Gurkha,Force,2017,1075000,15000,Petrol
+609,Gurkha,Force,2003,1299000,50000,Petrol
+610,Gurkha,Force,2015,1330000,49500,Petrol
+611,Gurkha,Force,2011,1225000,147000,Diesel
+612,Xl6,Maruti Suzuki,2011,984689,52000,Petrol
+613,Xl6,Maruti Suzuki,2012,1041189,90001,Diesel
+614,Xl6,Maruti Suzuki,2017,1094689,21000,Petrol
+615,Xl6,Maruti Suzuki,2012,1151189,48006,Diesel
+616,Abarth Avventura,Fiat,2012,989219,48006,Diesel
+617,Tuv300 Plus,Mahindra,2012,992748,48006,Diesel
+618,Tuv300 Plus,Mahindra,2012,1142157,80000,Diesel
+619,Marazzo,Mahindra,2010,1156471,74000,Diesel
+620,Marazzo,Mahindra,2015,1308592,22000,Petrol
+621,Marazzo,Mahindra,2016,1468440,41000,Diesel
+622,Marazzo,Mahindra,2015,999900,25000,Diesel
+623,Marazzo,Mahindra,2012,1164569,85000,Diesel
+624,Marazzo,Mahindra,2016,1316690,29500,Diesel
+625,Marazzo,Mahindra,2015,1476538,30000,Petrol
+626,Scorpio,Mahindra,2014,999994,57000,Petrol
+627,Scorpio,Mahindra,2003,1236258,60000,Petrol
+628,Scorpio,Mahindra,2016,1123158,50000,Petrol
+629,Scorpio,Mahindra,2013,1220030,39700,Petrol
+630,Scorpio,Mahindra,2012,1330006,65000,Petrol
+631,Scorpio,Mahindra,2010,1360668,67000,Diesel
+632,Scorpio,Mahindra,2008,1540081,46000,Petrol
+633,Scorpio,Mahindra,2012,1663054,38000,Petrol
+634,Scorpio,Mahindra,2016,1423710,27000,Petrol
+635,Monte Carlo,Skoda,2011,1425599,43000,Diesel
+636,Monte Carlo,Skoda,2014,1269599,47000,Petrol
+637,Monte Carlo,Skoda,2011,1299599,42000,Petrol
+638,Monte Carlo,Skoda,2016,1139599,19336,Diesel
+639,Xuv500,Mahindra,2015,1610180,60105,Diesel
+640,Xuv500,Mahindra,2013,1418313,29000,Diesel
+641,Xuv500,Mahindra,2014,1539488,34000,Diesel
+642,Xuv500,Mahindra,2011,1588943,35000,Diesel
+643,Xuv500,Mahindra,2015,1710118,22000,Petrol
+644,Xuv500,Mahindra,2012,1716319,41000,Diesel
+645,Xuv500,Mahindra,2016,1837586,21000,Diesel
+646,Xuv500,Mahindra,2013,1741319,48000,Diesel
+647,Xuv500,Mahindra,2016,1862586,38000,Petrol
+648,Xuv500,Mahindra,2014,1610180,34000,Diesel
+649,Xuv500,Mahindra,2011,1418313,45933,Petrol
+650,Xuv500,Mahindra,2005,1539488,68000,Petrol
+651,Xuv500,Mahindra,2016,1588943,44000,Diesel
+652,Xuv500,Mahindra,2017,1710118,35000,Diesel
+653,Xuv500,Mahindra,2018,1716319,102563,Diesel
+654,Xuv500,Mahindra,2015,1837586,28600,Diesel
+655,Xuv500,Mahindra,2017,1741319,41800,Diesel
+656,Xuv500,Mahindra,2014,1862586,116000,Diesel
+657,Xuv500,Mahindra,2009,1852488,59000,Petrol
+658,Xuv500,Mahindra,2004,1973664,58000,Diesel
+659,Xuv500,Mahindra,2009,1230924,45000,Petrol
+660,E Verito,Mahindra,2015,1293214,42590,Diesel
+661,E Verito,Mahindra,2014,1267208,7400,Diesel
+662,E Verito,Mahindra,2009,1303241,54500,Diesel
+663,Hexa,Tata,2012,1639374,200000,Diesel
+664,Hexa,Tata,2013,1929417,27000,Diesel
+665,Hexa,Tata,2015,1912593,42000,Diesel
+666,Hexa,Tata,2014,1796458,29000,Petrol
+667,Hexa,Tata,2015,1371864,37000,Diesel
+668,Hexa,Tata,2012,1531377,36000,Petrol
+669,Hexa,Tata,2011,1655587,34000,Diesel
+670,Innova Crysta,Toyota,2018,1605000,7000,Petrol
+671,Innova Crysta,Toyota,2009,1927000,76000,Diesel
+672,Innova Crysta,Toyota,2004,1610000,60000,Diesel
+673,Innova Crysta,Toyota,2011,1932000,95000,Diesel
+674,Innova Crysta,Toyota,2017,2113000,50000,Diesel
+675,Innova Crysta,Toyota,2019,1620000,0,Petrol
+676,Innova Crysta,Toyota,2006,1615000,50000,Petrol
+677,Innova Crysta,Toyota,2008,2103000,68000,Petrol
+678,Innova Crysta,Toyota,2014,1807000,16000,Petrol
+679,Innova Crysta,Toyota,2016,1493000,51000,Diesel
+680,Innova Crysta,Toyota,2009,1498000,56000,Petrol
+681,Innova Crysta,Toyota,2004,2097000,100000,Petrol
+682,Innova Crysta,Toyota,2015,1892000,36000,Petrol
+683,Innova Crysta,Toyota,2014,2171000,11523,Petrol
+684,Innova Crysta,Toyota,2018,1592000,1000,Petrol
+685,Innova Crysta,Toyota,2009,1587000,60000,Petrol
+686,Compass,Jeep,2016,1996000,85000,Diesel
+687,Compass,Jeep,2013,1560000,38600,Diesel
+688,Compass,Jeep,2009,2055000,95500,Diesel
+689,Compass,Jeep,2004,1661000,56000,Petrol
+690,Compass,Jeep,2014,1803000,37458,Petrol
+691,Compass,Jeep,2016,1888000,85960,Diesel
+692,Compass,Jeep,2015,1973000,12516,Petrol
+693,Compass,Jeep,2018,2022000,35000,Petrol
+694,Compass,Jeep,2009,2151000,0,Petrol
+695,Compass,Jeep,2008,2199000,80000,Diesel
+696,Compass,Jeep,2011,2133000,45000,Petrol
+697,Compass,Jeep,2009,1699000,51000,Diesel
+698,Compass,Jeep,2015,1599000,30000,Diesel
+699,Compass,Jeep,2011,2070000,48000,Diesel
+700,Compass,Jeep,2003,2036300,51000,Petrol
+701,Compass,Jeep,2015,2214000,90000,Diesel
+702,Compass,Jeep,2015,2499000,43000,Diesel
+703,Compass,Jeep,2015,2196000,53000,Diesel
+704,Corolla Altis,Toyota,2013,1645000,97000,Diesel
+705,Corolla Altis,Toyota,2013,1806000,20000,Petrol
+706,Corolla Altis,Toyota,2007,1882000,55000,Petrol
+707,Corolla Altis,Toyota,2014,1936000,120000,Diesel
+708,Corolla Altis,Toyota,2019,1771000,0,Petrol
+709,Corolla Altis,Toyota,2007,2019000,46000,Petrol
+710,Civic,Honda,2009,1793900,43200,Petrol
+711,Civic,Honda,2011,1944900,56000,Diesel
+712,Civic,Honda,2007,2124900,42000,Petrol
+713,Civic,Honda,2009,2054900,30600,Diesel
+714,Civic,Honda,2011,2234900,38000,Petrol
+715,Zs Ev,Mg,2017,2088000,2550,Petrol
+716,Zs Ev,Mg,2007,2358000,47000,Petrol
+717,Carnival,Kia,2005,2495000,41000,Petrol
+718,Carnival,Kia,2017,2515000,62500,Diesel
+719,Carnival,Kia,2005,2895000,68000,Petrol
+720,Carnival,Kia,2015,2995000,50000,Petrol
+721,Carnival,Kia,2004,3395000,69000,Petrol
+722,Superb,Skoda,2012,2599599,48000,Diesel
+723,Superb,Skoda,2012,2779599,55000,Diesel
+724,Superb,Skoda,2013,3099599,25000,Petrol
+725,Superb,Skoda,2014,3349599,28400,Petrol
+726,Superb,Skoda,2014,3029599,28000,Petrol
+727,Superb,Skoda,2015,2599599,42000,Diesel
+728,V40,Volvo,2012,2769000,29000,Diesel
+729,V40,Volvo,2005,3191000,68485,Diesel
+730,Fortuner,Toyota,2018,3205000,3500,Petrol
+731,Fortuner,Toyota,2019,3019000,0,Petrol
+732,Fortuner,Toyota,2019,3216000,0,Petrol
+733,Fortuner,Toyota,2006,2977000,32000,Petrol
+734,Fortuner,Toyota,2018,2818000,8000,Diesel
+735,Fortuner,Toyota,2014,3420000,34000,Diesel
+736,Endeavour,Ford,1995,3470000,37000,Petrol
+737,Endeavour,Ford,2007,3233000,85455,Diesel
+738,Endeavour,Ford,2007,2920000,46000,Petrol
+739,Cooper 3 Door,Mini,2002,2990000,47000,Petrol
+740,Cooper 3 Door,Mini,2009,3420000,64000,Petrol
+741,Kodiaq Scout,Skoda,2008,3399000,46000,Petrol
+742,X1,Bmw,2017,3520000,8000,Petrol
+743,X1,Bmw,2012,3930000,64000,Diesel
+744,X1,Bmw,2015,4570000,63000,Diesel
+745,X1,Bmw,2007,4240000,65000,Petrol
+746,X1,Bmw,2009,3830000,62000,Diesel
+747,S60,Volvo,2014,5602000,41000,Petrol
+748,S60,Volvo,2015,3850500,14000,Petrol
+749,3-Series,Bmw,2006,4140000,40000,Petrol
+750,3-Series,Bmw,2017,4690000,1600,Petrol
+751,3-Series,Bmw,2010,4790000,90000,Diesel
+752,S60 Cross Country,Volvo,2011,4426500,58000,Diesel
+753,Q5,Audi,2013,5021200,27000,Petrol
+754,Q5,Audi,2003,5621200,60000,Petrol
+755,Q5,Audi,2017,5021200,31000,Petrol
+756,Q5,Audi,2009,5621200,90000,Diesel
+757,Range Evoque,Land Rover Rover,2009,5494000,90000,Diesel
+758,Range Evoque,Land Rover Rover,2016,5985000,150000,Diesel
+759,Range Evoque,Land Rover Rover,2014,5494000,31000,Diesel
+760,Mercedes-Benz E-Class,Mercedes,2011,5861062,43000,Diesel
+761,Mercedes-Benz E-Class,Mercedes,2013,7285332,20000,Petrol
+762,X4,Bmw,2013,6350000,100000,Petrol
+763,Q7,Audi,2013,8021500,7000,Petrol
+764,Q7,Audi,2017,6921500,31000,Petrol
+765,Q7,Audi,2009,7621500,33000,Petrol
+766,Q7,Audi,2016,8111500,60000,Diesel
+767,Q7,Audi,2013,7711500,48000,Diesel
+768,Range Evoque Convertible,Land Rover Rover,2014,6952964,33000,Petrol
+769,Range Velar,Land Rover Rover,2015,7246802,15000,Petrol
+770,Range Velar,Land Rover Rover,2005,7246802,47000,Petrol
+771,Mercedes-Benz E-Class All Terrain,Mercedes,2005,7500000,40000,Petrol
+772,Xc90,Volvo,2019,8790000,7000,Diesel
+773,Xc90,Volvo,2010,8090000,38000,Diesel
+774,Xc90,Volvo,2017,13124000,12500,Petrol
+775,Xc90,Volvo,2009,9665000,42000,Petrol
+776,Xc90,Volvo,2016,8491500,20000,Diesel
+777,Range Sport,Land Rover Rover,2014,20517853,31000,Petrol
+778,Range Sport,Land Rover Rover,2008,8670586,60000,Diesel
+779,Range Sport,Land Rover Rover,2005,9448181,80000,Diesel
+780,Range Sport,Land Rover Rover,2014,11476911,77000,Diesel
+781,Range Sport,Land Rover Rover,2012,15600000,75000,Diesel
+782,Range Sport,Land Rover Rover,2010,13228725,40000,Diesel
+783,Range Sport,Land Rover Rover,2011,17940227,47000,Petrol
+784,Range Sport,Land Rover Rover,2000,10373732,60000,Petrol
+785,Range Sport,Land Rover Rover,2016,11913021,26500,Petrol
+786,Range Sport,Land Rover Rover,2019,14908985,2875,Petrol
+787,Xj,Jaguar,2016,9738609,13900,Petrol
+788,Xj,Jaguar,2019,10725145,9000,Diesel
+789,Xj,Jaguar,2005,11129599,80000,Diesel
+790,Cayenne,Porsche,2006,15806000,60000,Petrol
+791,Cayenne,Porsche,2016,19210000,20000,Petrol
+792,Cayenne,Porsche,2008,11936000,58000,Diesel
+793,Ghibli,Maserati,2019,13387856,1500,Petrol
+794,Ghibli,Maserati,2011,13881858,75000,Diesel
+795,Land Cruiser,Toyota,2016,14699000,2450,Petrol
+796,Rs7,Audi,2019,17072000,1625,Petrol
+797,Range,Land Rover Rover,2019,26037526,1500,Petrol
+798,Range,Land Rover Rover,2017,32522000,45000,Petrol
+799,Range,Land Rover Rover,2009,19527130,65000,Diesel
+800,Range,Land Rover Rover,2000,40499548,33400,Petrol
+801,Range,Land Rover Rover,2011,18185267,60123,Diesel
+802,Range,Land Rover Rover,2013,19527130,28000,Petrol
+803,Range,Land Rover Rover,2015,25174051,38900,Diesel
+804,Range,Land Rover Rover,2003,39294685,70000,Petrol
+805,Range,Land Rover Rover,2006,23675691,7000,Petrol
+806,Range,Land Rover Rover,2018,21398758,25000,Petrol
+807,Grancabrio,Maserati,2015,19865675,100000,Diesel
+808,Mercedes-Benz Amg-Gt,Mercedes,2019,21583466,4000,Petrol
+809,Mercedes-Benz Amg-Gt,Mercedes,2013,23264134,42000,Petrol
+810,Mercedes-Benz Amg-Gt,Mercedes,2009,22733626,20000,Petrol
+811,Mercedes-Benz Amg Gt 4-Door Coupe,Mercedes,2003,24200000,100000,Diesel
+812,Huracan,Lamborghini,2004,37133704,137495,Petrol
+813,Huracan,Lamborghini,2016,32452486,91200,Diesel
+814,Huracan,Lamborghini,2009,35150732,55000,Petrol
+815,Huracan,Lamborghini,2017,37614126,120000,Diesel
+816,Huracan,Lamborghini,2013,35535000,63000,Diesel
+817,Huracan,Lamborghini,2016,40742932,104000,Diesel
+818,Huracan,Lamborghini,2016,37300000,146000,Diesel
+819,Huracan,Lamborghini,2011,41000000,40000,Petrol
+820,Huracan,Lamborghini,2011,32200000,40000,Petrol
+821,488 Gtb,Ferrari,2007,36761413,100800,Diesel
+822,488 Gtb,Ferrari,2016,39319552,150000,Diesel
+823,Gtc4 Lusso,Ferrari,2018,42000000,2100,Petrol
+824,Gtc4 Lusso,Ferrari,2016,52000000,95000,Petrol
+825,Aventador,Lamborghini,2016,47893943,2500,Diesel
+826,Aventador,Lamborghini,2006,53210327,80000,Petrol
+827,Aventador,Lamborghini,2006,47467700,15000,Petrol
+828,Rolls-Royce Dawn,BMW,2005,59216193,65000,Petrol
+829,Rolls-Royce Drophead Coupe,BMW,2009,83755383,51000,Diesel
+830,Omni,Maruti Suzuki,2009,282778,45000,Petrol
+831,Omni,Maruti Suzuki,2015,284485,70000,Petrol
+832,Go+,DATSUN,2011,412292,50000,Petrol
+833,Go+,DATSUN,2009,574448,30000,Diesel
+834,Go+,DATSUN,2009,555196,132000,Petrol
+835,Go+,DATSUN,2018,593361,27000,Diesel
+836,Go+,DATSUN,2013,615153,40000,Diesel

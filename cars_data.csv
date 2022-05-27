@@ -1,0 +1,893 @@
+Model,Make,year,Price,kms_driven,fuel_type
+Nano Genx,Tata,2007,"Rs. 2,92,667","45,000 kms",Petrol
+Nano Genx,Tata,2006,"Rs. 2,36,447",40 kms,Diesel
+Nano Genx,Tata,2018,"Rs. 2,96,661","22,000 kms",Petrol
+Nano Genx,Tata,2014,"Rs. 3,34,768","28,000 kms",Petrol
+Nano Genx,Tata,2014,"Rs. 2,72,223","36,000 kms",Diesel
+Nano Genx,Tata,2015,"Rs. 3,14,815","59,000 kms",Diesel
+Redi-Go,Datsun,2012,"Rs. 2,79,650","41,000 kms",Diesel
+Redi-Go,Datsun,2013,"Rs. 3,51,832","25,000 kms",Petrol
+Redi-Go,Datsun,2016,"Rs. 3,33,419","24,530 kms",Diesel
+Redi-Go,Datsun,2015,"Rs. 3,62,000","60,000 kms",Petrol
+Redi-Go,Datsun,2010,"Rs. 3,90,000","60,000 kms",Petrol
+Redi-Go,Datsun,2015,"Rs. 4,37,065","30,000 kms",Petrol
+Kwid,Renault,2014,"Rs. 3,53,290","32,000 kms",Petrol
+Kwid,Renault,2015,"Rs. 2,83,290","48,660 kms",Diesel
+Kwid,Renault,2007,"Rs. 3,83,290","45,000 kms",Petrol
+Kwid,Renault,2006,"Rs. 4,13,290",40 kms,Diesel
+Kwid,Renault,2017,"Rs. 4,33,290","4,000 kms",Petrol
+Kwid,Renault,2014,"Rs. 4,54,490","16,934 kms",Diesel
+Kwid,Renault,2016,"Rs. 4,63,290","43,000 kms",Diesel
+Kwid,Renault,2014,"Rs. 4,84,490","35,550 kms",Petrol
+Kwid,Renault,2016,"Rs. 4,40,990","43,000 kms",Diesel
+Kwid,Renault,2016,"Rs. 4,70,990","39,522 kms",Diesel
+Kwid,Renault,2015,"Rs. 4,62,190","39,000 kms",Petrol
+Kwid,Renault,2012,"Rs. 4,92,190","55,000 kms",Petrol
+Eeco,Maruti Suzuki,2012,"Rs. 3,52,136","55,000 kms",Petrol
+Eeco,Maruti Suzuki,2012,"Rs. 3,80,573","55,000 kms",Petrol
+Eeco,Maruti Suzuki,2017,"Rs. 3,92,967","72,000 kms",Petrol
+Eeco,Maruti Suzuki,2016,"Rs. 4,66,057","15,975 kms",Diesel
+Eeco,Maruti Suzuki,2008,"Rs. 4,25,255","70,000 kms",Petrol
+Alto K10,Maruti Suzuki,2017,"Rs. 3,77,588","23,452 kms",Diesel
+Alto K10,Maruti Suzuki,2014,"Rs. 3,94,036","35,522 kms",Diesel
+Alto K10,Maruti Suzuki,2015,"Rs. 3,60,843","48,508 kms",Diesel
+Alto K10,Maruti Suzuki,2017,"Rs. 4,07,238","15,487 kms",Petrol
+Alto K10,Maruti Suzuki,2013,"Rs. 4,39,777","39,000 kms",Petrol
+Alto K10,Maruti Suzuki,2013,"Rs. 4,38,559","39,000 kms",Petrol
+Go,Datsun,2012,"Rs. 3,74,990","82,000 kms",Diesel
+Go,Datsun,2018,"Rs. 4,68,229","20,000 kms",Diesel
+Go,Datsun,2012,"Rs. 5,02,492","68,000 kms",Diesel
+Go,Datsun,2017,"Rs. 4,99,990","32,000 kms",Diesel
+Go,Datsun,2012,"Rs. 4,69,990","38,000 kms",Diesel
+Go,Datsun,2013,"Rs. 5,28,464","27,000 kms",Diesel
+Go,Datsun,2011,"Rs. 5,53,015","33,000 kms",Petrol
+Go,Datsun,2015,"Rs. 5,94,464","60,000 kms",Petrol
+Go,Datsun,2013,"Rs. 6,18,015","46,000 kms",Diesel
+Celerio Tour,Maruti Suzuki,2013,"Rs. 4,22,444","46,000 kms",Diesel
+Celerio Tour,Maruti Suzuki,2015,"Rs. 4,80,670","36,000 kms",Diesel
+Santro,Hyundai,2015,"Rs. 4,29,990","55,000 kms",Petrol
+Santro,Hyundai,2017,"Rs. 5,03,990","16,000 kms",Petrol
+Santro,Hyundai,2010,"Rs. 5,47,990","36,000 kms",Petrol
+Santro,Hyundai,2015,"Rs. 5,30,990","47,000 kms",Diesel
+Santro,Hyundai,2017,"Rs. 5,12,990","23,452 kms",Diesel
+Santro,Hyundai,2014,"Rs. 5,78,990","35,522 kms",Diesel
+Santro,Hyundai,2015,"Rs. 5,70,990","48,508 kms",Diesel
+Santro,Hyundai,2017,"Rs. 5,56,490","15,487 kms",Petrol
+Tiago,Tata,2013,"Rs. 4,60,000","39,000 kms",Petrol
+Tiago,Tata,2013,"Rs. 5,20,000","39,000 kms",Petrol
+Tiago,Tata,2015,"Rs. 5,70,000","35,000 kms",Diesel
+Tiago,Tata,2017,"Rs. 5,99,000","30,874 kms",Petrol
+Tiago,Tata,2017,"Rs. 6,10,000","15,000 kms",Diesel
+Tiago,Tata,2013,"Rs. 6,20,000","29,685 kms",Petrol
+Tiago,Tata,2012,"Rs. 6,49,000","41,000 kms",Diesel
+Tiago,Tata,2013,"Rs. 6,60,000","25,000 kms",Petrol
+Celerio X,Maruti Suzuki,2017,"Rs. 4,81,074","1,30,000 kms",Diesel
+Celerio X,Maruti Suzuki,2016,"Rs. 4,75,198","24,530 kms",Diesel
+Celerio X,Maruti Suzuki,2017,"Rs. 5,18,198","1,30,000 kms",Diesel
+Celerio X,Maruti Suzuki,2012,"Rs. 5,24,074","19,000 kms",Diesel
+Celerio X,Maruti Suzuki,2014,"Rs. 4,99,734","60,000 kms",Petrol
+Celerio X,Maruti Suzuki,2010,"Rs. 5,40,350","60,000 kms",Petrol
+Celerio X,Maruti Suzuki,2015,"Rs. 5,42,735","30,000 kms",Petrol
+Celerio X,Maruti Suzuki,2017,"Rs. 5,52,350",,
+Ignis,Maruti Suzuki,2010,"Rs. 7,13,898","41,000 kms",Petrol
+Ignis,Maruti Suzuki,2012,"Rs. 6,66,898","35,000 kms",Diesel
+Ignis,Maruti Suzuki,2015,"Rs. 6,07,841","54,000 kms",Petrol
+Ignis,Maruti Suzuki,2013,"Rs. 5,60,841","13,000 kms",Petrol
+Ignis,Maruti Suzuki,2017,"Rs. 4,83,320","16,000 kms",Petrol
+Ignis,Maruti Suzuki,2011,"Rs. 6,30,320","38,200 kms",Diesel
+Ignis,Maruti Suzuki,2015,"Rs. 5,83,320","22,000 kms",Petrol
+Triber,Renault,2015,"Rs. 4,95,000","22,000 kms",Petrol
+Triber,Renault,2014,"Rs. 5,59,000","50,000 kms",Diesel
+Triber,Renault,2013,"Rs. 6,09,000","13,500 kms",Petrol
+Triber,Renault,2015,"Rs. 6,63,000","30,000 kms",Diesel
+Rio,Premier,2014,"Rs. 5,06,000","50,000 kms",Diesel
+Rio,Premier,2013,"Rs. 5,68,623","20,000 kms",Diesel
+Rio,Premier,2017,"Rs. 6,70,000","39,000 kms",Petrol
+Rio,Premier,2012,"Rs. 6,03,000","30,000 kms",Petrol
+Rio,Premier,2017,"Rs. 7,39,000",,
+Rio,Premier,2019,"Rs. 7,39,000","3,600 kms",Diesel
+Etios Liva,Toyota,2009,"Rs. 5,20,300","32,000 kms",Petrol
+Etios Liva,Toyota,2010,"Rs. 5,81,000","38,000 kms",Diesel
+Etios Liva,Toyota,2008,"Rs. 6,47,800","45,000 kms",Petrol
+Etios Liva,Toyota,2009,"Rs. 6,30,000","35,000 kms",Petrol
+Etios Liva,Toyota,2005,"Rs. 7,45,000","50,000 kms",Petrol
+Etios Liva,Toyota,2014,"Rs. 7,04,000","32,000 kms",Petrol
+Etios Liva,Toyota,2011,"Rs. 5,97,700","45,863 kms",Diesel
+Etios Liva,Toyota,2011,"Rs. 7,20,700","60,500 kms",Petrol
+Etios Liva,Toyota,2011,"Rs. 6,41,700","12,500 kms",Petrol
+Etios Liva,Toyota,2013,"Rs. 7,56,700","60,000 kms",Diesel
+Etios Liva,Toyota,2012,"Rs. 5,58,400","35,000 kms",Diesel
+Etios Liva,Toyota,2014,"Rs. 6,86,000","35,000 kms",Petrol
+Etios Liva,Toyota,2012,"Rs. 6,62,700","45,000 kms",Diesel
+Etios Liva,Toyota,2009,"Rs. 7,77,700","35,000 kms",Petrol
+Micra Active,Nissan,2013,"Rs. 5,25,021","38,000 kms",Diesel
+Micra Active,Nissan,2014,"Rs. 5,99,950","18,000 kms",Petrol
+Micra Active,Nissan,2015,"Rs. 5,63,133","35,000 kms",Diesel
+Bolt,Tata,2013,"Rs. 7,87,980","13,349 kms",Petrol
+Bolt,Tata,2016,"Rs. 6,61,111","29,000 kms",Petrol
+Bolt,Tata,2014,"Rs. 6,93,798","44,000 kms",Diesel
+Bolt,Tata,2016,"Rs. 7,19,661","29,000 kms",Petrol
+Bolt,Tata,2013,"Rs. 6,74,960","42,000 kms",Diesel
+Bolt,Tata,2012,"Rs. 5,29,035","14,000 kms",Petrol
+Bolt,Tata,2014,"Rs. 5,90,268","49,000 kms",Diesel
+Bolt,Tata,2014,"Rs. 6,14,515","42,000 kms",Petrol
+Xcent Prime,Hyundai,2012,"Rs. 5,56,130","36,200 kms",Diesel
+Xcent Prime,Hyundai,2014,"Rs. 5,36,859","50,000 kms",Diesel
+Xcent Prime,Hyundai,2015,"Rs. 5,56,130","55,000 kms",Petrol
+Xcent Prime,Hyundai,2014,"Rs. 5,36,859","45,000 kms",Petrol
+Xcent Prime,Hyundai,2007,"Rs. 6,39,616","51,000 kms",Petrol
+Xcent Prime,Hyundai,2014,"Rs. 6,20,297","19,000 kms",Petrol
+Dzire Tour,Maruti Suzuki,2009,"Rs. 6,53,523","46,000 kms",Petrol
+Dzire Tour,Maruti Suzuki,2013,"Rs. 5,53,423","33,000 kms",Diesel
+Dzire Tour,Maruti Suzuki,2013,"Rs. 5,98,940","13,349 kms",Petrol
+Elite I20,Hyundai,2015,"Rs. 5,59,693","1,04,000 kms",Diesel
+Elite I20,Hyundai,2014,"Rs. 6,97,803","55,000 kms",Petrol
+Elite I20,Hyundai,2011,"Rs. 6,34,950","33,333 kms",Diesel
+Elite I20,Hyundai,2012,"Rs. 7,70,803","33,600 kms",Petrol
+Elite I20,Hyundai,2017,"Rs. 7,21,693","5,600 kms",Petrol
+Elite I20,Hyundai,2011,"Rs. 8,76,103","41,000 kms",Petrol
+Elite I20,Hyundai,2007,"Rs. 8,08,993","70,000 kms",Petrol
+Elite I20,Hyundai,2018,"Rs. 9,34,003","7,500 kms",Petrol
+Elite I20,Hyundai,2013,"Rs. 9,20,993","45,000 kms",Diesel
+Elite I20,Hyundai,2015,"Rs. 7,51,693","38,000 kms",Petrol
+Elite I20,Hyundai,2015,"Rs. 8,31,693","30,000 kms",Petrol
+Elite I20,Hyundai,2009,"Rs. 8,46,103","26,000 kms",
+Aura,Hyundai,2010,"Rs. 5,79,900","35,000 kms",Petrol
+Aura,Hyundai,2016,"Rs. 6,55,900","24,330 kms",Diesel
+Aura,Hyundai,2009,"Rs. 7,05,800","65,480 kms",Petrol
+Aura,Hyundai,2013,"Rs. 7,29,900","41,000 kms",Petrol
+Aura,Hyundai,2006,"Rs. 8,04,800","20,000 kms",Petrol
+Aura,Hyundai,2018,"Rs. 7,85,900","28,028 kms",Petrol
+Aura,Hyundai,2000,"Rs. 7,28,900","2,00,000 kms",Diesel
+Aura,Hyundai,2010,"Rs. 8,54,900","70,000 kms",Petrol
+Aura,Hyundai,2012,"Rs. 7,73,800","59,000 kms",Petrol
+Aura,Hyundai,2012,"Rs. 8,23,700","99,000 kms",Diesel
+Aura,Hyundai,2014,"Rs. 9,22,700","46,000 kms",Diesel
+Aura,Hyundai,2015,"Rs. 9,03,800","2,800 kms",Petrol
+Polo,Volkswagen,2014,"Rs. 5,82,000","32,000 kms",Petrol
+Polo,Volkswagen,2015,"Rs. 6,76,500","22,000 kms",Diesel
+Polo,Volkswagen,2014,"Rs. 7,76,500","50,000 kms",Diesel
+Polo,Volkswagen,2015,"Rs. 7,34,500","22,000 kms",Petrol
+Polo,Volkswagen,2012,"Rs. 8,51,500","45,000 kms",Petrol
+Polo,Volkswagen,2018,"Rs. 9,31,500","21,000 kms",Petrol
+Polo,Volkswagen,2016,"Rs. 9,76,000","11,000 kms",Petrol
+Polo,Volkswagen,2013,"Rs. 9,88,500","41,000 kms",Diesel
+Dzire,Maruti Suzuki,2017,"Rs. 5,82,613","39,000 kms",Petrol
+Dzire,Maruti Suzuki,2014,"Rs. 6,73,112","50,000 kms",Diesel
+Dzire,Maruti Suzuki,2011,"Rs. 6,66,622","66,000 kms",Diesel
+Dzire,Maruti Suzuki,2018,"Rs. 7,32,113","3,000 kms",Petrol
+Dzire,Maruti Suzuki,2010,"Rs. 7,57,622","45,000 kms",Petrol
+Dzire,Maruti Suzuki,2016,"Rs. 7,20,112","7,000 kms",Petrol
+Dzire,Maruti Suzuki,2010,"Rs. 8,63,122","38,500 kms",Diesel
+Dzire,Maruti Suzuki,2012,"Rs. 8,16,622","37,200 kms",Diesel
+Dzire,Maruti Suzuki,2010,"Rs. 8,21,613","43,200 kms",Diesel
+Dzire,Maruti Suzuki,2013,"Rs. 7,79,113","24,800 kms",Petrol
+Dzire,Maruti Suzuki,2014,"Rs. 8,68,613","60,000 kms",Diesel
+Dzire,Maruti Suzuki,2010,"Rs. 9,06,122","45,872 kms",Petrol
+Dzire,Maruti Suzuki,2011,"Rs. 8,04,622","40,000 kms",Diesel
+Dzire,Maruti Suzuki,2011,"Rs. 9,52,622","45,000 kms",Diesel
+Freestyle,Ford,2012,"Rs. 6,76,400","38,000 kms",Diesel
+Freestyle,Ford,2014,"Rs. 7,90,900","50,000 kms",Diesel
+Freestyle,Ford,2011,"Rs. 8,36,400","11,400 kms",Diesel
+Freestyle,Ford,2015,"Rs. 5,91,400","42,000 kms",Petrol
+Freestyle,Ford,2014,"Rs. 7,21,400","39,000 kms",Petrol
+Freestyle,Ford,2011,"Rs. 7,56,400","47,000 kms",Diesel
+Freestyle,Ford,2013,"Rs. 6,81,400","27,000 kms",Petrol
+Freestyle,Ford,2015,"Rs. 7,45,900","97,200 kms",Diesel
+Ameo,Volkswagen,2014,"Rs. 7,11,500","52,000 kms",Diesel
+Ameo,Volkswagen,2012,"Rs. 8,10,500","30,000 kms",Petrol
+Ameo,Volkswagen,2011,"Rs. 9,99,900","55,000 kms",Diesel
+Ameo,Volkswagen,2013,"Rs. 9,25,500","46,000 kms",Diesel
+Ameo,Volkswagen,2015,"Rs. 5,94,000","30,000 kms",Diesel
+Ameo,Volkswagen,2012,"Rs. 6,65,000","44,000 kms",Petrol
+Ameo,Volkswagen,2014,"Rs. 7,99,900","45,000 kms",Diesel
+Ameo,Volkswagen,2009,"Rs. 9,99,900","31,000 kms",Petrol
+Aspire,Ford,2016,"Rs. 5,98,500","1,75,430 kms",Diesel
+Aspire,Ford,2015,"Rs. 6,97,400","38,000 kms",Diesel
+Aspire,Ford,...,"Rs. 6,63,400",,
+Aspire,Ford,2013,"Rs. 6,99,400","37,000 kms",Diesel
+Aspire,Ford,2008,"Rs. 7,37,400","65,000 kms",Petrol
+Aspire,Ford,2011,"Rs. 7,77,400","38,200 kms",Diesel
+Aspire,Ford,2013,"Rs. 8,17,400","13,000 kms",Petrol
+Aspire,Ford,2005,"Rs. 8,62,400","7,500 kms",Petrol
+Aspire,Ford,2016,"Rs. 7,82,400","3,350 kms",Petrol
+Aspire,Ford,2000,"Rs. 7,37,400","60,000 kms",Petrol
+Aspire,Ford,2015,"Rs. 7,58,314","54,000 kms",Petrol
+Aspire,Ford,2017,"Rs. 7,62,400","32,000 kms",Petrol
+Aspire,Ford,150k,"Rs. 8,42,400",,
+Platinum Etios,Toyota,2007,"Rs. 6,27,100","75,000 kms",Diesel
+Platinum Etios,Toyota,2012,"Rs. 7,18,600","62,000 kms",Diesel
+Platinum Etios,Toyota,2006,"Rs. 7,34,700","73,000 kms",Diesel
+Platinum Etios,Toyota,2011,"Rs. 8,28,600","41,000 kms",Petrol
+Platinum Etios,Toyota,2011,"Rs. 8,88,400","35,000 kms",Petrol
+Platinum Etios,Toyota,2013,"Rs. 7,78,400","2,200 kms",Petrol
+Platinum Etios,Toyota,2013,"Rs. 6,89,600","39,000 kms",Petrol
+Platinum Etios,Toyota,2009,"Rs. 7,99,600","45,000 kms",Petrol
+Platinum Etios,Toyota,2006,"Rs. 9,13,400","45,000 kms",Petrol
+Platinum Etios,Toyota,2012,"Rs. 8,03,400","65,000 kms",Diesel
+Etios Cross,Toyota,TOUR,"Rs. 8,02,000",,
+Etios Cross,Toyota,2010,"Rs. 6,50,000","54,870 kms",Petrol
+Etios Cross,Toyota,2010,"Rs. 7,97,500","34,580 kms",Petrol
+Etios Cross,Toyota,2009,"Rs. 7,66,000","97,000 kms",Diesel
+Etios Cross,Toyota,2015,"Rs. 6,68,500","25,000 kms",Diesel
+Etios Cross,Toyota,2013,"Rs. 8,16,000","20,000 kms",Diesel
+Verito Vibe,Mahindra,2014,"Rs. 6,57,628","20,000 kms",Petrol
+Verito Vibe,Mahindra,2015,"Rs. 6,85,729","18,000 kms",Petrol
+Verito Vibe,Mahindra,2012,"Rs. 7,50,428","35,000 kms",Diesel
+Urban Cross,Fiat,2019,"Rs. 6,77,618",60 kms,Diesel
+Urban Cross,Fiat,2012,"Rs. 7,39,074","35,000 kms",Diesel
+Urban Cross,Fiat,2013,"Rs. 9,77,516","80,200 kms",Diesel
+Urban Cross,Fiat,2015,"Rs. 8,10,211","3,200 kms",Diesel
+Glanza,Toyota,2012,"Rs. 7,21,900","46,000 kms",Diesel
+Glanza,Toyota,2019,"Rs. 7,58,200","0,000 kms",Diesel
+Glanza,Toyota,2015,"Rs. 8,29,900","5,000 kms",Petrol
+Glanza,Toyota,2018,"Rs. 8,90,200",588 kms,Diesel
+Glanza,Toyota,2011,"Rs. 6,97,900","36,000 kms",Diesel
+Avventura,Fiat,2015,"Rs. 7,96,132","38,000 kms",Diesel
+Avventura,Fiat,2008,"Rs. 7,11,801","45,000 kms",Petrol
+Avventura,Fiat,2006,"Rs. 8,76,341","71,200 kms",Petrol
+Jazz,Honda,2016,"Rs. 7,45,000","52,000 kms",Diesel
+Jazz,Honda,2016,"Rs. 9,09,000","29,000 kms",Diesel
+Jazz,Honda,2015,"Rs. 7,89,000","47,000 kms",Diesel
+Jazz,Honda,2009,"Rs. 8,65,000","47,000 kms",Petrol
+Jazz,Honda,2015,"Rs. 8,16,500","20,000 kms",Diesel
+Jazz,Honda,2015,"Rs. 8,96,500","30,000 kms",Diesel
+Jazz,Honda,2017,"Rs. 9,40,500","5,000 kms",Petrol
+Jazz,Honda,2014,"Rs. 9,28,000","35,000 kms",Diesel
+Compass Trailhawk,Jeep,2014,"Rs. 26,80,000","31,000 kms",Petrol
+Compass Trailhawk,Jeep,2016,"Rs. 27,60,000","7,000 kms",Petrol
+Mu-X,Isuzu,2016,"Rs. 27,34,834","1,75,430 kms",Diesel
+Mu-X,Isuzu,2016,"Rs. 29,31,534","1,75,400 kms",Diesel
+Alturas G4,Mahindra,2016,"Rs. 27,70,150","41,000 kms",Petrol
+Alturas G4,Mahindra,2014,"Rs. 30,70,150","33,000 kms",Petrol
+Tiguan,Volkswagen,2013,"Rs. 28,14,500","46,000 kms",Diesel
+Tiguan,Volkswagen,2012,"Rs. 31,53,500","45,000 kms",Petrol
+Cr-V,Honda,2015,"Rs. 28,27,001","39,000 kms",Diesel
+Cr-V,Honda,2015,"Rs. 30,67,001","22,000 kms",Petrol
+Cr-V,Honda,2009,"Rs. 32,77,001","47,000 kms",Petrol
+Superb Sportline,Skoda,2015,"Rs. 28,99,599","3,200 kms",Diesel
+Superb Sportline,Skoda,2015,"Rs. 31,49,599","30,000 kms",Diesel
+A3,Audi,2015,"Rs. 30,21,200","37,000 kms",Diesel
+A3,Audi,2013,"Rs. 32,21,200","13,000 kms",Petrol
+A3,Audi,2017,"Rs. 29,20,750","14,000 kms",Petrol
+A3,Audi,2013,"Rs. 31,20,750","55,000 kms",Diesel
+Mercedes-Benz B-Class,Mercedes,2013,"Rs. 29,88,311","46,000 kms",Diesel
+Mercedes-Benz B-Class,Mercedes,2012,"Rs. 30,89,851","30,000 kms",Petrol
+Mercedes-Benz B-Class,Mercedes,2013,"Rs. 31,98,662","50,000 kms",Diesel
+Mercedes-Benz B-Class,Mercedes,2003,"Rs. 33,03,282","45,000 kms",Petrol
+Mercedes-Benz Cla-Class,Mercedes,2006,"Rs. 35,99,000","45,000 kms",Petrol
+Mercedes-Benz Cla-Class,Mercedes,2015,"Rs. 31,72,000","9,300 kms",Petrol
+Mercedes-Benz Cla-Class,Mercedes,2013,"Rs. 36,99,000","55,000 kms",Diesel
+Kodiaq,Skoda,2012,"Rs. 32,99,599","36,200 kms",Diesel
+Kodiaq,Skoda,2014,"Rs. 36,78,599","50,000 kms",Diesel
+Kodiaq,Skoda,2015,"Rs. 32,99,599","55,000 kms",Petrol
+Avanti,Dc,2014,"Rs. 34,07,407","45,000 kms",Petrol
+Q3,Audi,2007,"Rs. 36,77,200","51,000 kms",Petrol
+Q3,Audi,2014,"Rs. 39,92,200","19,000 kms",Petrol
+Q3,Audi,2009,"Rs. 43,61,000","46,000 kms",Petrol
+Q3,Audi,2013,"Rs. 34,96,750","33,000 kms",Diesel
+Cooper 5 Door,Mini,2010,"Rs. 36,00,000","36,000 kms",Petrol
+Convertible,Mini,2015,"Rs. 38,30,000","22,000 kms",Petrol
+Xc40,Volvo,2013,"Rs. 39,90,000","13,500 kms",Petrol
+Xc40,Volvo,2015,"Rs. 43,90,000","60,000 kms",Diesel
+Xc40,Volvo,2013,"Rs. 39,90,000","27,000 kms",Diesel
+Clubman,Mini,2014,"Rs. 41,20,000","59,000 kms",Diesel
+A4,Audi,2015,"Rs. 41,49,000","19,000 kms",Diesel
+A4,Audi,2013,"Rs. 45,07,000","30,000 kms",Petrol
+John Cooper Works,Mini,2018,"Rs. 43,50,000","15,000 kms",Petrol
+Xe,Jaguar,2003,"Rs. 44,98,000","56,758 kms",Petrol
+Xe,Jaguar,2018,"Rs. 44,98,000","10,000 kms",Petrol
+Xe,Jaguar,2018,"Rs. 46,33,000","20,000 kms",Diesel
+Xe,Jaguar,2014,"Rs. 46,33,000","49,000 kms",Diesel
+Xf,Jaguar,2014,"Rs. 54,36,329","41,000 kms",Petrol
+Xf,Jaguar,2011,"Rs. 60,73,446","45,000 kms",Petrol
+Xf,Jaguar,2010,"Rs. 61,38,811","43,000 kms",Petrol
+Xf,Jaguar,2016,"Rs. 55,06,622","1,75,430 kms",Diesel
+Xf,Jaguar,2000,"Rs. 49,77,080","56,450 kms",Petrol
+A3 Cabriolet,Audi,2015,"Rs. 50,38,000","38,000 kms",Diesel
+A6,Audi,...,"Rs. 54,42,200",,
+A6,Audi,2010,"Rs. 59,42,200","56,000 kms",Petrol
+X3,Bmw,2013,"Rs. 59,30,000","37,000 kms",Diesel
+X3,Bmw,2008,"Rs. 58,80,000","65,000 kms",Petrol
+X3,Bmw,2015,"Rs. 56,00,000","32,700 kms",Petrol
+Discovery Sport,Land Rover,2011,"Rs. 57,06,000","38,200 kms",Diesel
+Discovery Sport,Land Rover,2016,"Rs. 60,89,000","30,000 kms",Diesel
+S90,Volvo,2006,"Rs. 58,90,000","56,000 kms",Petrol
+S5,Audi,r 15,"Rs. 72,43,000",,
+X5,Bmw,2010,"Rs. 73,30,000","52,000 kms",Diesel
+X5,Bmw,2016,"Rs. 82,90,000","9,000 kms",Diesel
+X5,Bmw,2013,"Rs. 82,90,000","13,000 kms",Petrol
+Mustang,Ford,2013,"Rs. 74,62,000","13,000 kms",Petrol
+Grand Cherokee,Jeep,2008,"Rs. 78,82,867","11,000 kms",Petrol
+Grand Cherokee,Jeep,2013,"Rs. 89,31,819","13,000 kms",Petrol
+Grand Cherokee,Jeep,2009,"Rs. 1,14,00,000","46,000 kms",Diesel
+Grand Cherokee,Jeep,2019,"Rs. 75,15,000",73 kms,Petrol
+Mercedes-Benz E-Class Cabriolet,Mercedes,2004,"Rs. 77,11,338","1,60,000 kms",Diesel
+M2 Competition,Bmw,2017,"Rs. 81,80,000","84,000 kms",Diesel
+718,Porsche,2009,"Rs. 89,95,000","58,559 kms",Petrol
+718,Porsche,2015,"Rs. 85,95,000","30,000 kms",Diesel
+Mercedes-Benz Gls,Mercedes,2013,"Rs. 88,20,000","55,000 kms",Diesel
+Mercedes-Benz Gls,Mercedes,2014,"Rs. 1,91,99,181","57,000 kms",Diesel
+Mercedes-Benz Gls,Mercedes,2015,"Rs. 87,76,900","50,000 kms",Diesel
+Mercedes-Benz Gls,Mercedes,2014,"Rs. 86,90,000","37,000 kms",Petrol
+Mercedes-Benz Gls,Mercedes,2012,"Rs. 86,90,000","40,000 kms",Petrol
+Land Cruiser Prado,Toyota,2011,"Rs. 96,30,000","55,000 kms",Petrol
+Rx 450H,Lexus,2007,"Rs. 99,00,000","1,70,000 kms",Diesel
+Rs5,Audi,2014,"Rs. 1,11,41,200","55,000 kms",Diesel
+7-Series,Bmw,2015,"Rs. 1,22,90,000","39,000 kms",Petrol
+7-Series,Bmw,2014,"Rs. 1,32,00,000","44,000 kms",Petrol
+7-Series,Bmw,2009,"Rs. 1,35,10,000","65,000 kms",Petrol
+7-Series,Bmw,2014,"Rs. 1,35,10,000","39,000 kms",Petrol
+7-Series,Bmw,2012,"Rs. 1,65,00,000","44,000 kms",Diesel
+7-Series,Bmw,2015,"Rs. 2,42,50,000","49,000 kms",Diesel
+Q8,Audi,2018,"Rs. 1,33,59,500","9,000 kms",Diesel
+Mercedes-Benz S-Class,Mercedes,2015,"Rs. 1,35,58,438","45,000 kms",Diesel
+Mercedes-Benz S-Class,Mercedes,2014,"Rs. 1,39,76,653","47,000 kms",Diesel
+Mercedes-Benz S-Class,Mercedes,2012,"Rs. 2,55,00,000","40,000 kms",Diesel
+Levante,Maserati,2016,"Rs. 1,45,12,054","29,000 kms",Diesel
+Levante,Maserati,2016,"Rs. 1,48,63,774","15,000 kms",Petrol
+Levante,Maserati,2015,"Rs. 1,53,83,399","45,000 kms",Diesel
+Mercedes-Benz G-Class,Mercedes,2014,"Rs. 2,18,75,136","35,000 kms",Petrol
+Mercedes-Benz G-Class,Mercedes,2013,"Rs. 1,50,00,000","80,000 kms",Diesel
+A8 L,Audi,2013,"Rs. 1,56,00,000","68,000 kms",Diesel
+Granturismo,Maserati,2013,"Rs. 1,72,29,579","50,000 kms",Diesel
+Quattroporte,Maserati,2010,"Rs. 1,79,00,000","60,000 kms",Diesel
+Lc 500H,Lexus,2016,"Rs. 1,96,00,000","9,000 kms",Petrol
+Mercedes-Benz Maybach,Mercedes,2012,"Rs. 2,73,08,312","72,000 kms",Diesel
+Mercedes-Benz Maybach,Mercedes,2013,"Rs. 1,98,90,000","60,000 kms",Petrol
+Panamera,Porsche,2012,"Rs. 2,12,63,000","38,000 kms",Diesel
+Panamera,Porsche,2013,"Rs. 2,26,13,000","45,000 kms",Diesel
+Panamera,Porsche,2012,"Rs. 2,17,47,000","40,000 kms",Diesel
+Lx 450D,Lexus,2013,"Rs. 2,32,90,000","20,000 kms",Petrol
+Mercedes-Benz S-Class Cabriolet,Mercedes,2013,"Rs. 2,34,91,293","35,000 kms",Diesel
+R8,Audi,2016,"Rs. 2,72,45,000","20,000 kms",Diesel
+Urus,Lamborghini,2015,"Rs. 3,00,00,000","25,000 kms",Diesel
+Continental Gt,Bentley,2013,"Rs. 3,37,91,059","20,000 kms",Diesel
+Portofino,Ferrari,2014,"Rs. 3,50,00,000","20,000 kms",Petrol
+Bentayga,Bentley,2015,"Rs. 4,59,41,557","18,000 kms",Petrol
+Bentayga,Bentley,2012,"Rs. 3,75,42,069","35,000 kms",Diesel
+Db 11,Aston Martin,2017,"Rs. 4,04,56,503","6,821 kms",Petrol
+458 Speciale,Ferrari,2014,"Rs. 4,25,31,500","23,000 kms",Petrol
+Rolls-Royce Ghost Series Ii,BMW,2014,"Rs. 4,67,09,733","14,000 kms",Petrol
+Rolls-Royce Ghost Series Ii,BMW,2012,"Rs. 5,32,47,201","38,000 kms",Petrol
+Rolls-Royce Wraith,BMW,2015,"Rs. 5,00,25,840","35,000 kms",Diesel
+Mulsanne,Bentley,2017,"Rs. 5,25,71,294","22,000 kms",Petrol
+Rolls-Royce Cullinan,BMW,2011,"Rs. 6,95,00,000","41,000 kms",Petrol
+Rolls-Royce Phantom Coupe,BMW,2010,"Rs. 7,73,12,661","45,000 kms",Petrol
+Chiron,Bugatti,2014,"Rs. 19,21,42,937","44,000 kms",Diesel
+Chiron,Bugatti,2013,"Rs. 21,21,55,397","45,000 kms",Diesel
+Qute (Re60),Bajaj,2011,"Rs. 2,63,000","52,000 kms",Diesel
+Qute (Re60),Bajaj,2012,"Rs. 2,83,000","34,000 kms",Petrol
+Alto,Maruti Suzuki,2018,"Rs. 2,94,800","1,800 kms",Diesel
+Alto,Maruti Suzuki,Zest,"Rs. 2,99,900",,
+Alto,Maruti Suzuki,2015,"Rs. 3,52,900","15,000 kms",Diesel
+Alto,Maruti Suzuki,2010,"Rs. 3,57,200","4,00,000 kms",Petrol
+Alto,Maruti Suzuki,2009,"Rs. 3,76,100","44,000 kms",Petrol
+Alto,Maruti Suzuki,2019,"Rs. 4,05,570",60 kms,Diesel
+Alto,Maruti Suzuki,2012,"Rs. 4,09,190","35,000 kms",Diesel
+Alto,Maruti Suzuki,2016,"Rs. 3,89,600","72,000 kms",Diesel
+S-Presso,Maruti Suzuki,2014,"Rs. 3,70,500","40,000 kms",Diesel
+S-Presso,Maruti Suzuki,/-Rs,"Rs. 3,76,500",,
+S-Presso,Maruti Suzuki,2013,"Rs. 4,09,000","80,200 kms",Diesel
+S-Presso,Maruti Suzuki,2015,"Rs. 4,15,000","3,200 kms",Diesel
+S-Presso,Maruti Suzuki,2013,"Rs. 4,32,500","48,000 kms",Diesel
+S-Presso,Maruti Suzuki,2011,"Rs. 4,38,500","90,000 kms",Diesel
+S-Presso,Maruti Suzuki,2015,"Rs. 4,75,500","12,000 kms",Petrol
+S-Presso,Maruti Suzuki,2012,"Rs. 4,56,000","46,000 kms",Diesel
+S-Presso,Maruti Suzuki,2003,"Rs. 4,81,500","69,900 kms",Petrol
+S-Presso,Maruti Suzuki,2019,"Rs. 4,99,000","0,000 kms",Diesel
+Celerio,Maruti Suzuki,2011,"Rs. 4,26,289","45,000 kms",Petrol
+Celerio,Maruti Suzuki,2015,"Rs. 4,65,138","5,000 kms",Petrol
+Celerio,Maruti Suzuki,2016,"Rs. 5,08,138","1,66,000 kms",Diesel
+Celerio,Maruti Suzuki,2008,"Rs. 4,90,924","42,000 kms",Petrol
+Celerio,Maruti Suzuki,2018,"Rs. 5,31,279",588 kms,Diesel
+Celerio,Maruti Suzuki,2006,"Rs. 5,30,000",122 kms,Diesel
+Celerio,Maruti Suzuki,2017,"Rs. 5,33,924","62,000 kms",Diesel
+Celerio,Maruti Suzuki,2010,"Rs. 4,34,659","70,000 kms",Petrol
+Celerio,Maruti Suzuki,sale,"Rs. 4,72,257",,
+Celerio,Maruti Suzuki,2014,"Rs. 5,15,257","36,000 kms",Petrol
+Celerio,Maruti Suzuki,2012,"Rs. 5,43,279",0 kms,Diesel
+Grand I10 Prime,Hyundai,2018,"Rs. 5,51,530","24,000 kms",Petrol
+Grand I10 Prime,Hyundai,1995,"Rs. 5,68,930","55,000 kms",Petrol
+Grand I10 Prime,Hyundai,2011,"Rs. 4,60,369","36,000 kms",Diesel
+Grand I10 Prime,Hyundai,2015,"Rs. 4,77,511","38,000 kms",Diesel
+Grand I10 Prime,Hyundai,2014,"Rs. 5,45,946","55,000 kms",Diesel
+Grand I10 Prime,Hyundai,2015,"Rs. 5,28,804","20,000 kms",Diesel
+Kuv100 Nxt,Mahindra,2012,"Rs. 4,88,194","40,000 kms",Petrol
+Kuv100 Nxt,Mahindra,ara),"Rs. 5,32,184",,
+Kuv100 Nxt,Mahindra,2004,"Rs. 5,90,798","50,000 kms",Petrol
+Kuv100 Nxt,Mahindra,2016,"Rs. 6,19,243","1,04,000 kms",Diesel
+Kuv100 Nxt,Mahindra,2011,"Rs. 6,67,273","65,000 kms",Diesel
+Kuv100 Nxt,Mahindra,2002,"Rs. 5,79,645","41,000 kms",Petrol
+Kuv100 Nxt,Mahindra,2013,"Rs. 6,31,144","90,000 kms",Diesel
+Kuv100 Nxt,Mahindra,SELL,"Rs. 7,54,548",,
+Kuv100 Nxt,Mahindra,2000,"Rs. 6,93,550","80,000 kms",Petrol
+Kuv100 Nxt,Mahindra,2006,"Rs. 7,87,304","46,000 kms",Petrol
+Kuv100 Nxt,Mahindra,2001,"Rs. 7,01,045","70,000 kms",Petrol
+Kuv100 Nxt,Mahindra,2017,"Rs. 7,94,800","36,469 kms",Diesel
+Kuv100 Nxt,Mahindra,2018,"Rs. 5,73,250","7,800 kms",Petrol
+Kuv100 Nxt,Mahindra,2011,"Rs. 6,31,146","65,000 kms",Diesel
+Kuv100 Nxt,Mahindra,2017,"Rs. 6,87,175","60,000 kms",Petrol
+Kuv100 Nxt,Mahindra,2011,"Rs. 6,60,832","32,000 kms",Petrol
+Kuv100 Nxt,Mahindra,2009,"Rs. 7,48,128","24,695 kms",Petrol
+Kuv100 Nxt,Mahindra,2017,"Rs. 7,80,884","15,141 kms",Petrol
+Kuv100 Nxt,Mahindra,2001,"Rs. 5,50,155","40,000 kms",Petrol
+Kuv100 Nxt,Mahindra,2012,"Rs. 5,59,741","65,000 kms",Diesel
+Kuv100 Nxt,Mahindra,tion,"Rs. 5,24,312",,
+Kuv100 Nxt,Mahindra,2014,"Rs. 5,42,913","22,000 kms",Petrol
+Swift,Maruti Suzuki,2016,"Rs. 5,19,000","59,910 kms",Diesel
+Swift,Maruti Suzuki,2012,"Rs. 6,19,000","1,00,000 kms",Diesel
+Swift,Maruti Suzuki,2016,"Rs. 6,66,000","25,000 kms",Petrol
+Swift,Maruti Suzuki,2013,"Rs. 6,78,000","35,000 kms",Petrol
+Swift,Maruti Suzuki,2015,"Rs. 7,25,000","65,000 kms",Diesel
+Swift,Maruti Suzuki,2014,"Rs. 7,58,000","35,000 kms",Petrol
+Swift,Maruti Suzuki,2012,"Rs. 5,99,000","33,000 kms",Petrol
+Swift,Maruti Suzuki,2017,"Rs. 6,98,000","68,000 kms",Diesel
+Swift,Maruti Suzuki,2010,"Rs. 7,45,000","23,000 kms",Petrol
+Swift,Maruti Suzuki,2018,"Rs. 7,57,000","4,500 kms",Diesel
+Swift,Maruti Suzuki,2015,"Rs. 8,04,000","1,29,000 kms",Diesel
+Swift,Maruti Suzuki,2019,"Rs. 8,38,000",300 kms,Diesel
+Swift,Maruti Suzuki,2015,"Rs. 8,02,000","5,000 kms",Petrol
+Swift,Maruti Suzuki,2001,"Rs. 8,84,000","65,000 kms",Petrol
+Altroz,Tata,2010,"Rs. 5,29,000","1,31,000 kms",Diesel
+Altroz,Tata,2010,"Rs. 6,15,000","1,11,111 kms",Petrol
+Altroz,Tata,odel,"Rs. 6,84,000",,
+Altroz,Tata,2 bs,"Rs. 7,44,000",,
+Altroz,Tata,2013,"Rs. 7,69,000","14,000 kms",Petrol
+Altroz,Tata,2016,"Rs. 6,99,000","22,000 kms",Diesel
+Altroz,Tata,2013,"Rs. 7,75,000","38,000 kms",Diesel
+Altroz,Tata,2016,"Rs. 8,44,000","70,000 kms",Diesel
+Altroz,Tata,2010,"Rs. 9,04,000","36,000 kms",Petrol
+Altroz,Tata,2015,"Rs. 9,29,000","34,000 kms",Diesel
+Extreme,Icml,2015,"Rs. 6,42,478","43,000 kms",Petrol
+Extreme,Icml,arry,"Rs. 5,89,678",,
+Extreme,Icml,2014,"Rs. 6,89,761","40,000 kms",Diesel
+Extreme,Icml,2016,"Rs. 7,88,177","1,60,000 kms",Diesel
+Extreme,Icml,2017,"Rs. 26,50,777","12,000 kms",Petrol
+Extreme,Icml,2011,"Rs. 6,28,072","49,000 kms",Diesel
+Extreme,Icml,2011,"Rs. 9,00,967","68,000 kms",Petrol
+Extreme,Icml,2013,"Rs. 14,65,148","37,000 kms",Diesel
+Extreme,Icml,2012,"Rs. 5,52,890","59,466 kms",Diesel
+Extreme,Icml,2011,"Rs. 9,27,689","16,000 kms",Petrol
+Extreme,Icml,2015,"Rs. 8,35,275","97,200 kms",Diesel
+Tigor,Tata,2012,"Rs. 5,75,000","99,000 kms",Diesel
+Tigor,Tata,2018,"Rs. 6,10,000","25,500 kms",Petrol
+Tigor,Tata,2009,"Rs. 6,50,000","66,000 kms",Petrol
+Tigor,Tata,2010,"Rs. 6,99,000","44,005 kms",Petrol
+Tigor,Tata,2016,"Rs. 6,60,000","35,000 kms",Diesel
+Tigor,Tata,2016,"Rs. 7,49,000","35,000 kms",Diesel
+Zest,Tata,2015,"Rs. 5,82,287","28,000 kms",Petrol
+Zest,Tata,2015,"Rs. 7,02,946","30,000 kms",Petrol
+Zest,Tata,2017,"Rs. 6,53,926","4,000 kms",Petrol
+Zest,Tata,2016,"Rs. 6,72,641","28,000 kms",Petrol
+Zest,Tata,2011,"Rs. 7,32,475","75,000 kms",Petrol
+Zest,Tata,2015,"Rs. 7,67,317","97,200 kms",Diesel
+Zest,Tata,2017,"Rs. 7,93,898","3,000 kms",Petrol
+Zest,Tata,2015,"Rs. 8,55,362","20,000 kms",Petrol
+Zest,Tata,2004,"Rs. 8,36,320","50,000 kms",Petrol
+Zest,Tata,2018,"Rs. 9,89,000","2,110 kms",Petrol
+Zest,Tata,2015,"Rs. 7,88,797","43,222 kms",Petrol
+Amaze,Honda,2008,"Rs. 7,63,000","1,00,200 kms",Petrol
+Amaze,Honda,2003,"Rs. 7,05,000","1,00,000 kms",Petrol
+Amaze,Honda,2011,"Rs. 5,93,000",65 kms,Petrol
+Amaze,Honda,2015,"Rs. 8,65,000","1,00,000 kms",Diesel
+Amaze,Honda,2015,"Rs. 8,23,000","97,200 kms",Diesel
+Amaze,Honda,2015,"Rs. 9,25,000","97,200 kms",Diesel
+Amaze,Honda,2016,"Rs. 7,85,000","1,40,000 kms",Diesel
+Amaze,Honda,2015,"Rs. 8,93,000","55,000 kms",Petrol
+Amaze,Honda,2009,"Rs. 8,45,000","48,000 kms",Petrol
+Amaze,Honda,2016,"Rs. 7,81,000","22,000 kms",Petrol
+Amaze,Honda,2018,"Rs. 7,33,000","1,03,553 kms",Diesel
+Amaze,Honda,2017,"Rs. 6,73,000","80,000 kms",Diesel
+Amaze,Honda,2014,"Rs. 9,06,000","99,000 kms",Diesel
+Amaze,Honda,2010,"Rs. 7,94,000","58,000 kms",Petrol
+Amaze,Honda,2013,"Rs. 9,66,000","70,000 kms",LPG
+Amaze,Honda,2015,"Rs. 8,64,000","1,20,000 kms",Diesel
+Amaze,Honda,2013,"Rs. 9,79,300","49,800 kms",Diesel
+Amaze,Honda,2019,"Rs. 8,77,300",100 kms,Diesel
+Amaze,Honda,2001,"Rs. 9,06,300","81,876 kms",Petrol
+Amaze,Honda,2015,"Rs. 7,94,300","75,000 kms",Petrol
+Gypsy,Maruti Suzuki,2004,"Rs. 6,37,343","50,000 kms",Petrol
+Gypsy,Maruti Suzuki,2014,"Rs. 6,22,730","44,000 kms",Diesel
+Venue,Hyundai,2016,"Rs. 6,55,000","55,000 kms",Diesel
+Venue,Hyundai,2017,"Rs. 8,26,000","36,000 kms",Diesel
+Venue,Hyundai,2016,"Rs. 7,80,000","56,000 kms",Diesel
+Venue,Hyundai,2007,"Rs. 9,59,000","62,000 kms",Petrol
+Venue,Hyundai,2015,"Rs. 9,74,000","1,20,000 kms",Diesel
+Venue,Hyundai,2014,"Rs. 10,65,000","6,020 kms",Petrol
+Venue,Hyundai,2013,"Rs. 9,40,000","55,700 kms",Diesel
+Venue,Hyundai,2005,"Rs. 11,15,500","42,000 kms",Petrol
+Venue,Hyundai,2003,"Rs. 7,25,000","50,000 kms",Petrol
+Venue,Hyundai,2010,"Rs. 8,50,000","35,000 kms",Petrol
+Venue,Hyundai,2014,"Rs. 9,83,000","18,500 kms",Petrol
+Venue,Hyundai,2007,"Rs. 9,98,000","7,000 kms",Petrol
+Venue,Hyundai,2017,"Rs. 10,89,000","11,000 kms",Petrol
+Nexon,Tata,2015,"Rs. 6,95,000","1,80,000 kms",Diesel
+Nexon,Tata,2003,"Rs. 7,70,000","53,000 kms",Petrol
+Nexon,Tata,2008,"Rs. 8,70,000","23,000 kms",Petrol
+Nexon,Tata,2016,"Rs. 9,50,000","35,500 kms",Diesel
+Nexon,Tata,2010,"Rs. 9,70,000","22,134 kms",Petrol
+Nexon,Tata,2019,"Rs. 10,40,000","1,000 kms",Petrol
+Nexon,Tata,2010,"Rs. 10,60,000","9,000 kms",Petrol
+Nexon,Tata,2016,"Rs. 8,30,000","8,500 kms",Petrol
+Nexon,Tata,2015,"Rs. 10,10,000","35,000 kms",Petrol
+Nexon,Tata,2014,"Rs. 10,30,000","35,000 kms",Petrol
+Nexon,Tata,2014,"Rs. 11,00,000","22,000 kms",Petrol
+Nexon,Tata,2002,"Rs. 11,20,000","25,000 kms",Diesel
+Nexon,Tata,2010,"Rs. 8,45,000","40,000 kms",Petrol
+Nexon,Tata,2017,"Rs. 9,20,000","20,000 kms",Petrol
+Nexon,Tata,2016,"Rs. 10,20,000","87,000 kms",Petrol
+Nexon,Tata,2015,"Rs. 11,00,000","55,000 kms",Petrol
+Nexon,Tata,2017,"Rs. 11,20,000","23,000 kms",Petrol
+Nexon,Tata,2014,"Rs. 11,90,000","6,000 kms",Petrol
+Nexon,Tata,2013,"Rs. 12,10,000","65,000 kms",Petrol
+Nexon,Tata,2016,"Rs. 9,80,000","25,000 kms",Diesel
+Nexon,Tata,2015,"Rs. 11,60,000","39,000 kms",Petrol
+Nexon,Tata,2009,"Rs. 11,80,000","15,574 kms",Diesel
+Nexon,Tata,2016,"Rs. 12,50,000","8,000 kms",Petrol
+Nexon,Tata,2013,"Rs. 12,70,000","75,000 kms",Diesel
+Linea,Fiat,2012,"Rs. 7,15,860","51,000 kms",Diesel
+Linea,Fiat,2006,"Rs. 8,62,175","50,000 kms",Petrol
+Linea,Fiat,2001,"Rs. 9,32,025","75,000 kms",Petrol
+Linea,Fiat,2015,"Rs. 9,91,434","55,800 kms",Petrol
+Linea,Fiat,2015,"Rs. 9,97,763","53,000 kms",Petrol
+Bolero Power Plus,Mahindra,2018,"Rs. 8,86,398","25,000 kms",Petrol
+Bolero Power Plus,Mahindra,2009,"Rs. 8,51,302","56,400 kms",Petrol
+Bolero Power Plus,Mahindra,2010,"Rs. 7,85,656","72,160 kms",Diesel
+Bolero Power Plus,Mahindra,2012,"Rs. 7,49,192","10,000 kms",Diesel
+Bolero Power Plus,Mahindra,2006,"Rs. 8,59,497","48,000 kms",Petrol
+Bolero Power Plus,Mahindra,2007,"Rs. 8,19,117","36,000 kms",Petrol
+Vitara Brezza,Maruti Suzuki,2012,"Rs. 7,62,742","11,500 kms",Diesel
+Vitara Brezza,Maruti Suzuki,2003,"Rs. 8,14,742","1,33,000 kms",Petrol
+Vitara Brezza,Maruti Suzuki,2009,"Rs. 8,92,243","27,000 kms",Petrol
+Vitara Brezza,Maruti Suzuki,2009,"Rs. 9,87,743","35,000 kms",Petrol
+Vitara Brezza,Maruti Suzuki,2010,"Rs. 10,03,552","55,000 kms",Petrol
+Vitara Brezza,Maruti Suzuki,2016,"Rs. 10,37,742","40,000 kms",Petrol
+Vitara Brezza,Maruti Suzuki,2019,"Rs. 8,64,742","2,000 kms",Petrol
+Vitara Brezza,Maruti Suzuki,2009,"Rs. 9,42,243","45,000 kms",Petrol
+Vitara Brezza,Maruti Suzuki,2009,"Rs. 10,59,742","20,000 kms",Petrol
+I20 Active,Hyundai,2000,"Rs. 7,74,035","88,000 kms",Petrol
+I20 Active,Hyundai,2009,"Rs. 8,58,536","20,000 kms",Petrol
+I20 Active,Hyundai,2012,"Rs. 8,82,298","65,422 kms",Diesel
+I20 Active,Hyundai,2017,"Rs. 9,93,393","10,000 kms",Petrol
+Ecosport,Ford,2013,"Rs. 7,91,000","35,000 kms",Petrol
+Ecosport,Ford,2013,"Rs. 8,71,000","1,17,000 kms",Diesel
+Ecosport,Ford,2005,"Rs. 9,50,000","1,50,000 kms",Diesel
+Ecosport,Ford,2011,"Rs. 11,30,000","72,000 kms",Diesel
+Ecosport,Ford,2010,"Rs. 8,41,000","10,750 kms",Petrol
+Ecosport,Ford,2009,"Rs. 9,21,000","55,000 kms",Petrol
+Ecosport,Ford,2013,"Rs. 9,99,900","6,800 kms",Petrol
+Ecosport,Ford,2014,"Rs. 10,90,000","41,000 kms",Diesel
+Ecosport,Ford,2015,"Rs. 9,99,900","73,000 kms",Diesel
+Ecosport,Ford,Eon,"Rs. 11,45,000",,
+Ecosport,Ford,2011,"Rs. 9,99,900","65,000 kms",Diesel
+Ecosport,Ford,2014,"Rs. 10,90,000","45,000 kms",Diesel
+Duster,Renault,2018,"Rs. 7,99,990","40,000 kms",Diesel
+Duster,Renault,2014,"Rs. 9,19,990","37,000 kms",Petrol
+Duster,Renault,2006,"Rs. 9,99,990","55,000 kms",Petrol
+Duster,Renault,2013,"Rs. 9,29,990","1,40,000 kms",Diesel
+Duster,Renault,2016,"Rs. 9,99,990",5 kms,Petrol
+Duster,Renault,2019,"Rs. 11,19,990","9,800 kms",Petrol
+Duster,Renault,2011,"Rs. 12,09,990","27,000 kms",Petrol
+Duster,Renault,2009,"Rs. 12,49,990","27,000 kms",Petrol
+Duster,Renault,2012,"Rs. 12,49,990","20,000 kms",Diesel
+Verna,Hyundai,2013,"Rs. 9,99,900","57,923 kms",Diesel
+Verna,Hyundai,2014,"Rs. 11,72,544","30,201 kms",Diesel
+Verna,Hyundai,2017,"Rs. 13,01,881","6,200 kms",Petrol
+Verna,Hyundai,2009,"Rs. 11,72,999","37,518 kms",Petrol
+Verna,Hyundai,2014,"Rs. 13,28,545","24,652 kms",Petrol
+Verna,Hyundai,2004,"Rs. 12,87,999",383 kms,Diesel
+Verna,Hyundai,2016,"Rs. 9,33,182","95,000 kms",Diesel
+Verna,Hyundai,2011,"Rs. 8,17,867","35,000 kms",Diesel
+Verna,Hyundai,2015,"Rs. 11,78,894","3,528 kms",Diesel
+Verna,Hyundai,2013,"Rs. 11,62,875","52,500 kms",Diesel
+Verna,Hyundai,2010,"Rs. 14,07,871","47,900 kms",Diesel
+Verna,Hyundai,2012,"Rs. 9,42,867","14,000 kms",Petrol
+Verna,Hyundai,2018,"Rs. 9,99,900","37,000 kms",Petrol
+Xuv300,Mahindra,2017,"Rs. 8,30,127","90,000 kms",Diesel
+Xuv300,Mahindra,2013,"Rs. 9,15,128","52,800 kms",Diesel
+Xuv300,Mahindra,2016,"Rs. 10,60,129","1,04,000 kms",Diesel
+Xuv300,Mahindra,2011,"Rs. 11,84,129","30,000 kms",Petrol
+Xuv300,Mahindra,2014,"Rs. 8,69,131","1,95,000 kms",Diesel
+Xuv300,Mahindra,2016,"Rs. 9,50,131","1,04,000 kms",Diesel
+Xuv300,Mahindra,2016,"Rs. 10,95,129","1,04,000 kms",Diesel
+Xuv300,Mahindra,2004,"Rs. 12,14,130","70,000 kms",Diesel
+Xuv300,Mahindra,o...,"Rs. 11,49,800",,
+Xuv300,Mahindra,2015,"Rs. 12,69,131","43,000 kms",Diesel
+Xuv300,Mahindra,2013,"Rs. 9,99,000","23,000 kms",Petrol
+Lodgy,Renault,2015,"Rs. 8,63,299","51,000 kms",Diesel
+Lodgy,Renault,2009,"Rs. 9,64,199","62,000 kms",Petrol
+Lodgy,Renault,2010,"Rs. 12,11,599","48,008 kms",Petrol
+Lodgy,Renault,Zest,"Rs. 12,11,599",,
+Lodgy,Renault,2013,"Rs. 10,53,899","39,000 kms",Diesel
+Lodgy,Renault,2010,"Rs. 11,30,099","40,000 kms",Petrol
+Lodgy,Renault,2006,"Rs. 9,64,199","48,247 kms",Petrol
+Vento,Volkswagen,2012,"Rs. 8,76,500","39,000 kms",Diesel
+Vento,Volkswagen,2014,"Rs. 9,99,900","23,000 kms",Petrol
+Vento,Volkswagen,2017,"Rs. 9,99,900","9,400 kms",Petrol
+Vento,Volkswagen,2010,"Rs. 11,97,500","50,000 kms",Petrol
+Vento,Volkswagen,2009,"Rs. 14,49,500","75,000 kms",Petrol
+Vento,Volkswagen,sale,"Rs. 9,58,500",,
+Vento,Volkswagen,2017,"Rs. 9,99,900","70,000 kms",Diesel
+Vento,Volkswagen,2009,"Rs. 12,10,500","64,000 kms",Diesel
+Vento,Volkswagen,2010,"Rs. 13,36,500","55,000 kms",Petrol
+Vento,Volkswagen,2014,"Rs. 13,17,500","2,00,000 kms",Diesel
+Vento,Volkswagen,2018,"Rs. 14,49,500","7,500 kms",Diesel
+Vento,Volkswagen,Zest,"Rs. 13,17,500",,
+E2O Plus,Mahindra,2018,"Rs. 8,81,425","2,137 kms",Petrol
+E2O Plus,Mahindra,ture,"Rs. 9,57,177",,
+Tigor Ev,Tata,2013,"Rs. 9,60,868","30,000 kms",Diesel
+Tigor Ev,Tata,2014,"Rs. 9,75,868","44,000 kms",Petrol
+Tigor Ev,Tata,2002,"Rs. 9,44,175","56,000 kms",Petrol
+Brv,Honda,2006,"Rs. 9,52,900","65,000 kms",Diesel
+Brv,Honda,2012,"Rs. 10,52,900","1,60,000 kms",LPG
+Brv,Honda,2011,"Rs. 11,67,900","56,000 kms",Diesel
+Brv,Honda,2012,"Rs. 12,71,900","75,000 kms",Diesel
+Brv,Honda,emi,"Rs. 12,85,900",,
+Brv,Honda,2018,"Rs. 11,87,900","42,000 kms",Diesel
+Brv,Honda,2012,"Rs. 12,73,900","75,000 kms",Diesel
+Brv,Honda,2007,"Rs. 13,82,900","56,000 kms",Diesel
+Thar,Mahindra,2002,"Rs. 9,59,860","10,544 kms",Petrol
+Thar,Mahindra,2011,"Rs. 9,99,148","64,000 kms",Petrol
+Thar,Mahindra,2008,"Rs. 9,74,860","70,000 kms",Diesel
+Gurkha,Force,2014,"Rs. 9,99,000","25,000 kms",Petrol
+Gurkha,Force,2017,"Rs. 10,75,000","15,000 kms",Petrol
+Gurkha,Force,2003,"Rs. 12,99,000","50,000 kms",Petrol
+Gurkha,Force,2015,"Rs. 13,30,000","49,500 kms",Petrol
+Gurkha,Force,car,"Rs. 9,75,000",,
+Gurkha,Force,2011,"Rs. 12,25,000","1,47,000 kms",Diesel
+Xl6,Maruti Suzuki,2011,"Rs. 9,84,689","52,000 kms",Petrol
+Xl6,Maruti Suzuki,2012,"Rs. 10,41,189","90,001 kms",Diesel
+Xl6,Maruti Suzuki,2017,"Rs. 10,94,689","21,000 kms",Petrol
+Xl6,Maruti Suzuki,2012,"Rs. 11,51,189","48,006 kms",Diesel
+Abarth Avventura,Fiat,2012,"Rs. 9,89,219","48,006 kms",Diesel
+Tuv300 Plus,Mahindra,2012,"Rs. 9,92,748","48,006 kms",Diesel
+Tuv300 Plus,Mahindra,able,"Rs. 10,29,650",,
+Tuv300 Plus,Mahindra,2012,"Rs. 11,42,157","80,000 kms",Diesel
+Marazzo,Mahindra,no.,"Rs. 9,99,900",,
+Marazzo,Mahindra,2010,"Rs. 11,56,471","74,000 kms",Diesel
+Marazzo,Mahindra,2015,"Rs. 13,08,592","22,000 kms",Petrol
+Marazzo,Mahindra,2016,"Rs. 14,68,440","41,000 kms",Diesel
+Marazzo,Mahindra,2015,"Rs. 9,99,900","25,000 kms",Diesel
+Marazzo,Mahindra,2012,"Rs. 11,64,569","85,000 kms",Diesel
+Marazzo,Mahindra,2016,"Rs. 13,16,690","29,500 kms",Diesel
+Marazzo,Mahindra,2015,"Rs. 14,76,538","30,000 kms",Petrol
+Scorpio,Mahindra,2014,"Rs. 9,99,994","57,000 kms",Petrol
+Scorpio,Mahindra,2003,"Rs. 12,36,258","60,000 kms",Petrol
+Scorpio,Mahindra,2016,"Rs. 11,23,158","50,000 kms",Petrol
+Scorpio,Mahindra,2013,"Rs. 12,20,030","39,700 kms",Petrol
+Scorpio,Mahindra,2012,"Rs. 13,30,006","65,000 kms",Petrol
+Scorpio,Mahindra,2010,"Rs. 13,60,668","67,000 kms",Diesel
+Scorpio,Mahindra,2008,"Rs. 15,40,081","46,000 kms",Petrol
+Scorpio,Mahindra,2012,"Rs. 16,63,054","38,000 kms",Petrol
+Scorpio,Mahindra,2016,"Rs. 14,23,710","27,000 kms",Petrol
+Monte Carlo,Skoda,2011,"Rs. 14,25,599","43,000 kms",Diesel
+Monte Carlo,Skoda,2014,"Rs. 12,69,599","47,000 kms",Petrol
+Monte Carlo,Skoda,2011,"Rs. 12,99,599","42,000 kms",Petrol
+Monte Carlo,Skoda,2016,"Rs. 11,39,599","19,336 kms",Diesel
+Xuv500,Mahindra,2015,"Rs. 16,10,180","60,105 kms",Diesel
+Xuv500,Mahindra,2013,"Rs. 14,18,313","29,000 kms",Diesel
+Xuv500,Mahindra,2014,"Rs. 15,39,488","34,000 kms",Diesel
+Xuv500,Mahindra,2011,"Rs. 15,88,943","35,000 kms",Diesel
+Xuv500,Mahindra,2015,"Rs. 17,10,118","22,000 kms",Petrol
+Xuv500,Mahindra,2012,"Rs. 17,16,319","41,000 kms",Diesel
+Xuv500,Mahindra,2016,"Rs. 18,37,586","21,000 kms",Diesel
+Xuv500,Mahindra,2013,"Rs. 17,41,319","48,000 kms",Diesel
+Xuv500,Mahindra,2016,"Rs. 18,62,586","38,000 kms",Petrol
+Xuv500,Mahindra,2014,"Rs. 16,10,180","34,000 kms",Diesel
+Xuv500,Mahindra,2011,"Rs. 14,18,313","45,933 kms",Petrol
+Xuv500,Mahindra,2005,"Rs. 15,39,488","68,000 kms",Petrol
+Xuv500,Mahindra,2016,"Rs. 15,88,943","44,000 kms",Diesel
+Xuv500,Mahindra,2017,"Rs. 17,10,118","35,000 kms",Diesel
+Xuv500,Mahindra,2018,"Rs. 17,16,319","1,02,563 kms",Diesel
+Xuv500,Mahindra,2015,"Rs. 18,37,586","28,600 kms",Diesel
+Xuv500,Mahindra,2017,"Rs. 17,41,319","41,800 kms",Diesel
+Xuv500,Mahindra,2014,"Rs. 18,62,586","1,16,000 kms",Diesel
+Xuv500,Mahindra,2009,"Rs. 18,52,488","59,000 kms",Petrol
+Xuv500,Mahindra,2004,"Rs. 19,73,664","58,000 kms",Diesel
+Xuv500,Mahindra,2009,"Rs. 12,30,924","45,000 kms",Petrol
+E Verito,Mahindra,2015,"Rs. 12,93,214","42,590 kms",Diesel
+E Verito,Mahindra,2014,"Rs. 12,67,208","7,400 kms",Diesel
+E Verito,Mahindra,2009,"Rs. 13,03,241","54,500 kms",Diesel
+Hexa,Tata,2012,"Rs. 16,39,374","2,00,000 kms",Diesel
+Hexa,Tata,2013,"Rs. 19,29,417","27,000 kms",Diesel
+Hexa,Tata,2015,"Rs. 19,12,593","42,000 kms",Diesel
+Hexa,Tata,2014,"Rs. 17,96,458","29,000 kms",Petrol
+Hexa,Tata,2015,"Rs. 13,71,864","37,000 kms",Diesel
+Hexa,Tata,2012,"Rs. 15,31,377","36,000 kms",Petrol
+Hexa,Tata,2011,"Rs. 16,55,587","34,000 kms",Diesel
+Innova Crysta,Toyota,2018,"Rs. 16,05,000","7,000 kms",Petrol
+Innova Crysta,Toyota,2009,"Rs. 19,27,000","76,000 kms",Diesel
+Innova Crysta,Toyota,2004,"Rs. 16,10,000","60,000 kms",Diesel
+Innova Crysta,Toyota,2011,"Rs. 19,32,000","95,000 kms",Diesel
+Innova Crysta,Toyota,2017,"Rs. 21,13,000","50,000 kms",Diesel
+Innova Crysta,Toyota,2019,"Rs. 16,20,000",00 kms,Petrol
+Innova Crysta,Toyota,2006,"Rs. 16,15,000","50,000 kms",Petrol
+Innova Crysta,Toyota,2008,"Rs. 21,03,000","68,000 kms",Petrol
+Innova Crysta,Toyota,2014,"Rs. 18,07,000","16,000 kms",Petrol
+Innova Crysta,Toyota,2016,"Rs. 14,93,000","51,000 kms",Diesel
+Innova Crysta,Toyota,2009,"Rs. 14,98,000","56,000 kms",Petrol
+Innova Crysta,Toyota,2004,"Rs. 20,97,000","1,00,000 kms",Petrol
+Innova Crysta,Toyota,2015,"Rs. 18,92,000","36,000 kms",Petrol
+Innova Crysta,Toyota,2014,"Rs. 21,71,000","11,523 kms",Petrol
+Innova Crysta,Toyota,2018,"Rs. 15,92,000","1,000 kms",Petrol
+Innova Crysta,Toyota,2009,"Rs. 15,87,000","60,000 kms",Petrol
+Compass,Jeep,2016,"Rs. 19,96,000","85,000 kms",Diesel
+Compass,Jeep,2013,"Rs. 15,60,000","38,600 kms",Diesel
+Compass,Jeep,2009,"Rs. 20,55,000","95,500 kms",Diesel
+Compass,Jeep,2004,"Rs. 16,61,000","56,000 kms",Petrol
+Compass,Jeep,2014,"Rs. 18,03,000","37,458 kms",Petrol
+Compass,Jeep,2016,"Rs. 18,88,000","85,960 kms",Diesel
+Compass,Jeep,2015,"Rs. 19,73,000","12,516 kms",Petrol
+Compass,Jeep,2018,"Rs. 20,22,000","35,000 kms",Petrol
+Compass,Jeep,2009,"Rs. 21,51,000",00 kms,Petrol
+Compass,Jeep,2008,"Rs. 21,99,000","80,000 kms",Diesel
+Compass,Jeep,o...,"Rs. 21,67,000",,
+Compass,Jeep,2011,"Rs. 21,33,000","45,000 kms",Petrol
+Compass,Jeep,d...,"Rs. 23,11,000",,
+Compass,Jeep,2009,"Rs. 16,99,000","51,000 kms",Diesel
+Compass,Jeep,2015,"Rs. 15,99,000","30,000 kms",Diesel
+Compass,Jeep,car,"Rs. 19,00,000",,
+Compass,Jeep,2011,"Rs. 20,70,000","48,000 kms",Diesel
+Compass,Jeep,2003,"Rs. 20,36,300","51,000 kms",Petrol
+Compass,Jeep,2015,"Rs. 22,14,000","90,000 kms",Diesel
+Compass,Jeep,2015,"Rs. 24,99,000","43,000 kms",Diesel
+Compass,Jeep,2015,"Rs. 21,96,000","53,000 kms",Diesel
+Corolla Altis,Toyota,2013,"Rs. 16,45,000","97,000 kms",Diesel
+Corolla Altis,Toyota,2013,"Rs. 18,06,000","20,000 kms",Petrol
+Corolla Altis,Toyota,2007,"Rs. 18,82,000","55,000 kms",Petrol
+Corolla Altis,Toyota,2014,"Rs. 19,36,000","1,20,000 kms",Diesel
+Corolla Altis,Toyota,2019,"Rs. 17,71,000",0 kms,Petrol
+Corolla Altis,Toyota,2007,"Rs. 20,19,000","46,000 kms",Petrol
+Civic,Honda,2009,"Rs. 17,93,900","43,200 kms",Petrol
+Civic,Honda,2011,"Rs. 19,44,900","56,000 kms",Diesel
+Civic,Honda,2007,"Rs. 21,24,900","42,000 kms",Petrol
+Civic,Honda,2009,"Rs. 20,54,900","30,600 kms",Diesel
+Civic,Honda,2011,"Rs. 22,34,900","38,000 kms",Petrol
+Zs Ev,Mg,2017,"Rs. 20,88,000","2,550 kms",Petrol
+Zs Ev,Mg,2007,"Rs. 23,58,000","47,000 kms",Petrol
+Carnival,Kia,2005,"Rs. 24,95,000","41,000 kms",Petrol
+Carnival,Kia,2017,"Rs. 25,15,000","62,500 kms",Diesel
+Carnival,Kia,2005,"Rs. 28,95,000","68,000 kms",Petrol
+Carnival,Kia,2015,"Rs. 29,95,000","50,000 kms",Petrol
+Carnival,Kia,2004,"Rs. 33,95,000","69,000 kms",Petrol
+Superb,Skoda,2012,"Rs. 25,99,599","48,000 kms",Diesel
+Superb,Skoda,2012,"Rs. 27,79,599","55,000 kms",Diesel
+Superb,Skoda,2013,"Rs. 30,99,599","25,000 kms",Petrol
+Superb,Skoda,2014,"Rs. 33,49,599","28,400 kms",Petrol
+Superb,Skoda,2014,"Rs. 30,29,599","28,000 kms",Petrol
+Superb,Skoda,2015,"Rs. 25,99,599","42,000 kms",Diesel
+Superb,Skoda,SALE,"Rs. 28,49,599",,
+V40,Volvo,2012,"Rs. 27,69,000","29,000 kms",Diesel
+V40,Volvo,2005,"Rs. 31,91,000","68,485 kms",Diesel
+Fortuner,Toyota,2018,"Rs. 32,05,000","3,500 kms",Petrol
+Fortuner,Toyota,2019,"Rs. 30,19,000",0 kms,Petrol
+Fortuner,Toyota,2019,"Rs. 32,16,000",0 kms,Petrol
+Fortuner,Toyota,digo,"Rs. 33,95,000",,
+Fortuner,Toyota,2006,"Rs. 29,77,000","32,000 kms",Petrol
+Fortuner,Toyota,2018,"Rs. 28,18,000","8,000 kms",Diesel
+Fortuner,Toyota,2014,"Rs. 34,20,000","34,000 kms",Diesel
+Endeavour,Ford,1995,"Rs. 34,70,000","37,000 kms",Petrol
+Endeavour,Ford,2007,"Rs. 32,33,000","85,455 kms",Diesel
+Endeavour,Ford,2007,"Rs. 29,20,000","46,000 kms",Petrol
+Cooper 3 Door,Mini,2002,"Rs. 29,90,000","47,000 kms",Petrol
+Cooper 3 Door,Mini,2009,"Rs. 34,20,000","64,000 kms",Petrol
+Kodiaq Scout,Skoda,2008,"Rs. 33,99,000","46,000 kms",Petrol
+X1,Bmw,2017,"Rs. 35,20,000","8,000 kms",Petrol
+X1,Bmw,2012,"Rs. 39,30,000","64,000 kms",Diesel
+X1,Bmw,2015,"Rs. 45,70,000","63,000 kms",Diesel
+X1,Bmw,2007,"Rs. 42,40,000","65,000 kms",Petrol
+X1,Bmw,2009,"Rs. 38,30,000","62,000 kms",Diesel
+S60,Volvo,2014,"Rs. 56,02,000","41,000 kms",Petrol
+S60,Volvo,2015,"Rs. 38,50,500","14,000 kms",Petrol
+3-Series,Bmw,2006,"Rs. 41,40,000","40,000 kms",Petrol
+3-Series,Bmw,2017,"Rs. 46,90,000","1,600 kms",Petrol
+3-Series,Bmw,2010,"Rs. 47,90,000","90,000 kms",Diesel
+S60 Cross Country,Volvo,2011,"Rs. 44,26,500","58,000 kms",Diesel
+Q5,Audi,2013,"Rs. 50,21,200","27,000 kms",Petrol
+Q5,Audi,2003,"Rs. 56,21,200","60,000 kms",Petrol
+Q5,Audi,2017,"Rs. 50,21,200","31,000 kms",Petrol
+Q5,Audi,2009,"Rs. 56,21,200","90,000 kms",Diesel
+Range Evoque,Land Rover Rover,2009,"Rs. 54,94,000","90,000 kms",Diesel
+Range Evoque,Land Rover Rover,2016,"Rs. 59,85,000","1,50,000 kms",Diesel
+Range Evoque,Land Rover Rover,2014,"Rs. 54,94,000","31,000 kms",Diesel
+Range Evoque,Land Rover Rover,sell,"Rs. 59,85,000",,
+Mercedes-Benz E-Class,Mercedes,2011,"Rs. 58,61,062","43,000 kms",Diesel
+Mercedes-Benz E-Class,Mercedes,2013,"Rs. 72,85,332","20,000 kms",Petrol
+Mercedes-Benz E-Class,Mercedes,d Ex,"Rs. 59,64,321",,
+Mercedes-Benz E-Class,Mercedes,n...,"Rs. 1,50,00,000",,
+Mercedes-Benz E-Class,Mercedes,e...,"Rs. 57,50,000",,
+Mercedes-Benz E-Class,Mercedes,D...,"Rs. 61,50,000",,
+Mercedes-Benz E-Class,Mercedes,", Ac","Rs. 58,50,000",,
+Mercedes-Benz E-Class,Mercedes,go .,"Rs. 62,50,000",,
+Xc60,Volvo,d...,"Rs. 59,90,000",,
+X4,Bmw,k...,"Rs. 60,60,000",,
+X4,Bmw,o c4,"Rs. 65,90,000",,
+X4,Bmw,2013,"Rs. 63,50,000","1,00,000 kms",Petrol
+Wrangler,Jeep,zire,"Rs. 63,94,000",,
+Mercedes-Benz C-Class Cabriolet,Mercedes,o...,"Rs. 64,26,497",,
+Z4 Roadster,Bmw,cent,"Rs. 64,90,000",,
+Z4 Roadster,Bmw,...,"Rs. 78,90,000",,
+Mercedes-Benz V-Class,Mercedes,Sumo,"Rs. 68,40,000",,
+Mercedes-Benz V-Class,Mercedes,cab,"Rs. 81,90,000",,
+Mercedes-Benz V-Class,Mercedes,t xe,"Rs. 1,10,00,000",,
+Q7,Audi,EV2,"Rs. 72,21,500",,
+Q7,Audi,2013,"Rs. 80,21,500","7,000 kms",Petrol
+Q7,Audi,2017,"Rs. 69,21,500","31,000 kms",Petrol
+Q7,Audi,2009,"Rs. 76,21,500","33,000 kms",Petrol
+Q7,Audi,2016,"Rs. 81,11,500","60,000 kms",Diesel
+Q7,Audi,2013,"Rs. 77,11,500","48,000 kms",Diesel
+Range Evoque Convertible,Land Rover Rover,2014,"Rs. 69,52,964","33,000 kms",Petrol
+Range Velar,Land Rover Rover,2015,"Rs. 72,46,802","15,000 kms",Petrol
+Range Velar,Land Rover Rover,2005,"Rs. 72,46,802","47,000 kms",Petrol
+Mercedes-Benz E-Class All Terrain,Mercedes,2005,"Rs. 75,00,000","40,000 kms",Petrol
+Xc90,Volvo,2019,"Rs. 87,90,000","7,000 kms",Diesel
+Xc90,Volvo,2010,"Rs. 80,90,000","38,000 kms",Diesel
+Xc90,Volvo,2017,"Rs. 1,31,24,000","12,500 kms",Petrol
+Xc90,Volvo,2009,"Rs. 96,65,000","42,000 kms",Petrol
+Xc90,Volvo,2016,"Rs. 84,91,500","20,000 kms",Diesel
+Range Sport,Land Rover Rover,2014,"Rs. 2,05,17,853","31,000 kms",Petrol
+Range Sport,Land Rover Rover,2008,"Rs. 86,70,586","60,000 kms",Diesel
+Range Sport,Land Rover Rover,2005,"Rs. 94,48,181","80,000 kms",Diesel
+Range Sport,Land Rover Rover,2014,"Rs. 1,14,76,911","77,000 kms",Diesel
+Range Sport,Land Rover Rover,2012,"Rs. 1,56,00,000","75,000 kms",Diesel
+Range Sport,Land Rover Rover,2010,"Rs. 1,32,28,725","40,000 kms",Diesel
+Range Sport,Land Rover Rover,2011,"Rs. 1,79,40,227","47,000 kms",Petrol
+Range Sport,Land Rover Rover,2000,"Rs. 1,03,73,732","60,000 kms",Petrol
+Range Sport,Land Rover Rover,2016,"Rs. 1,19,13,021","26,500 kms",Petrol
+Range Sport,Land Rover Rover,2019,"Rs. 1,49,08,985","2,875 kms",Petrol
+Xj,Jaguar,2016,"Rs. 97,38,609","13,900 kms",Petrol
+Xj,Jaguar,2019,"Rs. 1,07,25,145","9,000 kms",Diesel
+Xj,Jaguar,2005,"Rs. 1,11,29,599","80,000 kms",Diesel
+Cayenne,Porsche,2006,"Rs. 1,58,06,000","60,000 kms",Petrol
+Cayenne,Porsche,2016,"Rs. 1,92,10,000","20,000 kms",Petrol
+Cayenne,Porsche,2008,"Rs. 1,19,36,000","58,000 kms",Diesel
+Ghibli,Maserati,2019,"Rs. 1,33,87,856","1,500 kms",Petrol
+Ghibli,Maserati,2011,"Rs. 1,38,81,858","75,000 kms",Diesel
+Ghibli,Maserati,r...,"Rs. 1,42,47,814",,
+Land Cruiser,Toyota,2016,"Rs. 1,46,99,000","2,450 kms",Petrol
+Rs7,Audi,2019,"Rs. 1,70,72,000","1,625 kms",Petrol
+Range,Land Rover Rover,2019,"Rs. 2,60,37,526","1,500 kms",Petrol
+Range,Land Rover Rover,2017,"Rs. 3,25,22,000","45,000 kms",Petrol
+Range,Land Rover Rover,2009,"Rs. 1,95,27,130","65,000 kms",Diesel
+Range,Land Rover Rover,2000,"Rs. 4,04,99,548","33,400 kms",Petrol
+Range,Land Rover Rover,2011,"Rs. 1,81,85,267","60,123 kms",Diesel
+Range,Land Rover Rover,2013,"Rs. 1,95,27,130","28,000 kms",Petrol
+Range,Land Rover Rover,2015,"Rs. 2,51,74,051","38,900 kms",Diesel
+Range,Land Rover Rover,2003,"Rs. 3,92,94,685","70,000 kms",Petrol
+Range,Land Rover Rover,2006,"Rs. 2,36,75,691","7,000 kms",Petrol
+Range,Land Rover Rover,2018,"Rs. 2,13,98,758","25,000 kms",Petrol
+Grancabrio,Maserati,2015,"Rs. 1,98,65,675","1,00,000 kms",Diesel
+Mercedes-Benz Amg-Gt,Mercedes,2019,"Rs. 2,15,83,466","4,000 kms",Petrol
+Mercedes-Benz Amg-Gt,Mercedes,2013,"Rs. 2,32,64,134","42,000 kms",Petrol
+Mercedes-Benz Amg-Gt,Mercedes,2009,"Rs. 2,27,33,626","20,000 kms",Petrol
+Mercedes-Benz Amg Gt 4-Door Coupe,Mercedes,2003,"Rs. 2,42,00,000","1,00,000 kms",Diesel
+Huracan,Lamborghini,2004,"Rs. 3,71,33,704","1,37,495 kms",Petrol
+Huracan,Lamborghini,2016,"Rs. 3,24,52,486","91,200 kms",Diesel
+Huracan,Lamborghini,2009,"Rs. 3,51,50,732","55,000 kms",Petrol
+Huracan,Lamborghini,2017,"Rs. 3,76,14,126","1,20,000 kms",Diesel
+Huracan,Lamborghini,2013,"Rs. 3,55,35,000","63,000 kms",Diesel
+Huracan,Lamborghini,2016,"Rs. 4,07,42,932","1,04,000 kms",Diesel
+Huracan,Lamborghini,2016,"Rs. 3,73,00,000","1,46,000 kms",Diesel
+Huracan,Lamborghini,2011,"Rs. 4,10,00,000","40,000 kms",Petrol
+Huracan,Lamborghini,2011,"Rs. 3,22,00,000","40,000 kms",Petrol
+488 Gtb,Ferrari,2007,"Rs. 3,67,61,413","1,00,800 kms",Diesel
+488 Gtb,Ferrari,2016,"Rs. 3,93,19,552","1,50,000 kms",Diesel
+Gtc4 Lusso,Ferrari,2018,"Rs. 4,20,00,000","2,100 kms",Petrol
+Gtc4 Lusso,Ferrari,2016,"Rs. 5,20,00,000","95,000 kms",Petrol
+Aventador,Lamborghini,2016,"Rs. 4,78,93,943","2,500 kms",Diesel
+Aventador,Lamborghini,2006,"Rs. 5,32,10,327","80,000 kms",Petrol
+Aventador,Lamborghini,2006,"Rs. 4,74,67,700","15,000 kms",Petrol
+Rolls-Royce Dawn,BMW,2005,"Rs. 5,92,16,193","65,000 kms",Petrol
+Rolls-Royce Drophead Coupe,BMW,2009,"Rs. 8,37,55,383","51,000 kms",Diesel
+Omni,Maruti Suzuki,2009,"Rs. 2,82,778","45,000 kms",Petrol
+Omni,Maruti Suzuki,2015,"Rs. 2,84,485","70,000 kms",Petrol
+Go+,DATSUN,2011,"Rs. 4,12,292","50,000 kms",Petrol
+Go+,DATSUN,sale,"Rs. 5,52,656",,
+Go+,DATSUN,2009,"Rs. 5,74,448","30,000 kms",Diesel
+Go+,DATSUN,2009,"Rs. 5,55,196","1,32,000 kms",Petrol
+Go+,DATSUN,zest,"Rs. 5,00,575",,
+Go+,DATSUN,2018,"Rs. 5,93,361","27,000 kms",Diesel
+Go+,DATSUN,2013,"Rs. 6,15,153","40,000 kms",Diesel
+Go+,DATSUN,2014,"Rs. 6,58,361",Petrol,
+Go+,DATSUN,2014,"Rs. 6,80,153",Petrol,
